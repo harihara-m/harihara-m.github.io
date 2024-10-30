@@ -17,13 +17,13 @@ Education
 ======
 * PhD Applied Mathematics
   * Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, IN, US. 2024-current
-* MSc. Mathematics CGPA-8.45/10 (grade cards)
+* MSc. Mathematics CGPA-8.45/10
   * School of Mathematics, IISER Thiruvananthapuram, India 2022-2024
-* BSc. Mathematics CGPA 9.09/10 (grade sheet)
+* BSc. Mathematics CGPA 9.09/10
   * Department of Mathematics, M. P. C. Autonomous College, Odisha, India 2019-2022
-* Higher Secondary (10+2) 80.33% (certificate)
+* Higher Secondary (10+2) 80.33
   * Vijayanjai HS Res. School, Odisha, India 2017-2019
-* Secondary Examination (10th boards) 80.16% (certificate)
+* Secondary Examination (10th boards) 80.16
   * Budhabalanga High School, Odisha, India 2016-2017
 
 Projects and Internships
