@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-2
 venue: "University of Notre Dame, ACMS Department"
-date: Fall 24
+date: 27-08-2024
 location: "South Bend, IN"
 ---
 
