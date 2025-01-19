@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# Summary
-
-I am a first-year PhD student in Applied Mathematics in the Applied Computational Mathematics and Statistics (ACMS) Department of the University of Notre Dame, IN, US. I am enthusiastic about learning numerical methods for solving differential equations.
+Hi! Welcome again to my fun page. If you are not looking for academic information, ding ding, you are on the correct page! This is where I list things I do in my free time.
