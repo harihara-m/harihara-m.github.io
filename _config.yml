@@ -21,7 +21,7 @@ repository               : "harihara-m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile.png"
   name             : "Harihara Maharna"
   # pronouns         : "he/him" 
   bio              : "Applied Mathematics PhD Student at the University of Notre Dame, US"
