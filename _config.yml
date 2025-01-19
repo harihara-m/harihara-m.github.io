@@ -21,7 +21,7 @@ repository               : "harihara-m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   name             : "Harihara Maharna"
   # pronouns         : "he/him" 
   bio              : "Applied Mathematics PhD Student at the University of Notre Dame, US"
@@ -31,13 +31,13 @@ author:
 # Summary
 
 I am a first-year PhD student in Applied Mathematics in the Applied Computational Mathematics and Statistics (ACMS) Department of the University of Notre Dame, IN, US. I am enthusiastic about learning numerical methods for solving differential equations.
-email- hmaharna@nd.edu            : "hmaharna@nd.edu" 
+  email            : "hmaharna@nd.edu" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"i
+  # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
