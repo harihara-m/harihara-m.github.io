@@ -1,9 +1,8 @@
 ---
 title: "Master's Project"
 collection: portfolio
-type: ""
 permalink: /portfolio/master-project
-venue: "Indian Institute of Science Education and Research, Vithura, Thiruvananthapuram (IISER TVM), Department of Mathematics"
+venue: "Indian Institute of Science Education and Research, Thiruvananthapuram (IISER TVM), Department of Mathematics"
 date: 15-01-2024
 location: "Thiruvananthapuram, India"
 ---
