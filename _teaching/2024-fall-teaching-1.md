@@ -4,7 +4,6 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-fall-teaching-1
 venue: "University of Notre Dame, Department of Data Science"
-date:
 location: "South Bend, IN"
 ---
 
