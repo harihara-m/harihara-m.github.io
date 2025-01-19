@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Harihara Maharna"
-  pronouns         : "he/him" 
+  # pronouns         : "he/him" 
   bio              : "Applied Mathematics PhD Student at the University of Notre Dame, US"
   location         : "208 Crowley Hall"
   employer         : "University of Notre Dame"
