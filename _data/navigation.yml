@@ -25,9 +25,9 @@ main:
     
   - title: "CV"
     url: /cv/
-    # url: /CV_Harihara/
     
   - title: "More About Me!"
     url: /More/
+
   # - title: "Guide"
   #   url: /markdown/
