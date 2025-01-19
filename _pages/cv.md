@@ -15,16 +15,16 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 
 # Education
 
-- PhD Applied Mathematics
-  - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, IN, US. 2024-current
-- MSc. Mathematics CGPA-8.45/10
+- PhD Applied Mathematics (<span style="color:cyan"> 2024-current </span>)
+  - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, IN, US.
+- MSc. Mathematics (<span style="color:cyan">2022-2024</span>)
   - School of Mathematics, IISER Thiruvananthapuram, India 2022-2024
-- BSc. Mathematics CGPA 9.09/10
-  - Department of Mathematics, M. P. C. Autonomous College, Odisha, India 2019-2022
-- Higher Secondary (10+2) 80.33
-  - Vijayanjai HS Res. School, Odisha, India 2017-2019
-- Secondary Examination (10th boards) 80.16
-  - Budhabalanga High School, Odisha, India 2016-2017
+- BSc. Mathematics (<span style="color:cyan">2019-2022</span>)
+  - Department of Mathematics, M. P. C. Autonomous College, Odisha, India
+- Higher Secondary (10+2)(<span style="color:cyan">2017-2019</span>)
+  - Vijayanjai HS Res. School, Odisha, India
+- Secondary Examination (10th boards) (<span style="color:cyan">2016-2017</span>)
+  - Budhabalanga High School, Odisha, India
 
 # Projects and Internships
 
@@ -48,22 +48,30 @@ Summer Project Summer 2023
 
 # Work experience
 
-- Spring 2024: Academic Pages Collaborator
+- Spring 2025: Teaching Assistant
 
-  - Github University
-  - Duties includes: Updates and improvements to template
-  - Supervisor: The Users
+  - University of Notre Dame
+  - Duties includes: Holding office hours and grading
 
-- Fall 2015: Research Assistant
+- Fall 2024: Teaching Assistant
 
-  - Github University
-  - Duties included: Merging pull requests
-  - Supervisor: Professor Hub
+  - University of Notre Dame
+  - Duties includes: Holding office hours and grading
 
-- Summer 2015: Research Assistant
-  - Github University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
+- Feb 2022- July 2023
+
+  - Chegg subject matterr expert in Calculus
+
+    <!--- Fall 2015: Research Assistant-->
+    <!---->
+    <!--  - Github University-->
+    <!--  - Duties included: Merging pull requests-->
+    <!--  - Supervisor: Professor Hub-->
+    <!---->
+    <!--- Summer 2015: Research Assistant-->
+    <!--  - Github University-->
+    <!--  - Duties included: Tagging issues-->
+    <!--  - Supervisor: Professor Git-->
 
 # Skills
 
