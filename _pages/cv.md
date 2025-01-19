@@ -29,14 +29,14 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 
 # Projects and Internships
 
-Master’s Project Jan-May 2024
+Master’s Project (<span style="color:cyan">Jan-May 2024</span>)
 
 - Guide: Dr. K. R. Arun, School of Mathematics, IISER Thiruvananthapuram, India
 - Topic: An asymptotic preserving and energy stable finite volume scheme for the compressible Euler equations with congestion constraint.
   - In this project, we designed and analyzed a finite volume scheme for the barotropic Euler equations with the congestion pressure law and performed the singular limit termed as the hard congestion limit at the discrete level.
   - The developed scheme was an entropy stable and asymptotic preserving. We also obtained a-priori estimates on the relevant unknowns. We lastly, proved the efficiency of the numerical scheme by testing various numerical examples.
 
-Summer Project Summer 2023
+Summer Project (<span style="color:cyan">Summer 2023</span>)
 
 - Guide: Dr. Anupam Pal Choudhury, School of Mathematics, NISER Bhubaneswar, India
 - Topic: Differential Equations
