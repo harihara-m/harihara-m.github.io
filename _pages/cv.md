@@ -15,13 +15,13 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 
 # Education
 
-- PhD Applied Mathematics (<span style="color:cyan"> 2024-current </span>)
+- PhD Applied Mathematics (<span style="color:cyan">2024-current </span>)
   - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, IN, US.
 - MSc. Mathematics (<span style="color:cyan">2022-2024</span>)
   - School of Mathematics, IISER Thiruvananthapuram, India 2022-2024
 - BSc. Mathematics (<span style="color:cyan">2019-2022</span>)
   - Department of Mathematics, M. P. C. Autonomous College, Odisha, India
-- Higher Secondary (10+2)(<span style="color:cyan">2017-2019</span>)
+- Higher Secondary (10+2) (<span style="color:cyan">2017-2019</span>)
   - Vijayanjai HS Res. School, Odisha, India
 - Secondary Examination (10th boards) (<span style="color:cyan">2016-2017</span>)
   - Budhabalanga High School, Odisha, India
