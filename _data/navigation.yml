@@ -17,9 +17,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-  #
+
   # - title: "Blog Posts"
   #   url: /year-archive/
     
@@ -27,6 +25,9 @@ main:
     url: /cv/
     # url: /CV_Harihara/
     
+  - title: "More About Me!!"
+    url: /portfolio/
+
   - title: "More About Me!"
     url: /More About Me!/
   # - title: "Guide"
