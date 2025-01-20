@@ -7,6 +7,11 @@
 main:
   # - title: "Publications"
   #   url: /publications/
+  - title: "CV"
+    url: /cv/
+ 
+ - title: "Teaching"
+    url: /teaching/    
 
   - title: "Projects"
     url: /project/
@@ -14,15 +19,11 @@ main:
   # - title: "Talks"
   #   url: /talks/    
   #
-  - title: "Teaching"
-    url: /teaching/    
     
   #
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
   - title: "More About Me!"
     url: /more/
