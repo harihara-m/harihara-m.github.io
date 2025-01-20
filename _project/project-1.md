@@ -1,7 +1,7 @@
 ---
 title: "Master's Project"
-collection: portfolio
-permalink: /portfolio/master-project
+collection: project
+permalink: /poroject/project-1
 venue: "Indian Institute of Science Education and Research, Thiruvananthapuram (IISER TVM), Department of Mathematics"
 date: 15-01-2024
 location: "Thiruvananthapuram, India"

@@ -17,7 +17,7 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 # Education
 
 - PhD Applied Mathematics (<span style="color:cyan">2024-current</span>)
-  - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, IN, US.
+  - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, South Bend, IN, US.
 - MSc. Mathematics (<span style="color:cyan">2022-2024</span>)
   - School of Mathematics, IISER Thiruvananthapuram, India 2022-2024
 - BSc. Mathematics (<span style="color:cyan">2019-2022</span>)
@@ -61,7 +61,7 @@ Summer Project (<span style="color:cyan">Summer 2023</span>)
 
 - Feb 2022- July 2023
 
-  - Chegg subject matterr expert in Calculus
+  - Chegg subject matter expert in Calculus
 
     <!--- Fall 2015: Research Assistant-->
     <!---->
