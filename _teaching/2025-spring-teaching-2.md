@@ -8,4 +8,4 @@ date: 23-01-2025
 location: "South Bend, IN"
 ---
 
-My main job was to held office hours and grade homework.
+My main job is to held office hours and grade homework.

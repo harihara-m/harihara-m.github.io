@@ -8,4 +8,4 @@ date: 23-01-2025
 location: "South Bend, IN"
 ---
 
-My main job was to grade homework and practice problems.
+My main job is to grade homework and practice problems.
