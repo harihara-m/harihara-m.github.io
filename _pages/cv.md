@@ -29,9 +29,9 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 
 # Projects and Internships
 
-<!--<ul>{% for post in site.project reversed %}-->
-<!--    {% include archive-single-cv.html %}-->
-<!--    {% endfor %}</ul>-->
+<ul>{% for post in site.project reversed %}
+    {% include archive-single-cv.html %}
+    {% endfor %}</ul>
 
 Master’s Project (<span style="color:cyan">Jan-May 2024</span>)
 
