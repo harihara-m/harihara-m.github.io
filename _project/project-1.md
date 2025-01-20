@@ -4,7 +4,7 @@ collection: project
 type: "Summer project"
 permalink: /project/project-1
 venue: "National Institute of Science Education and Research (NISER), Bhubaneswar"
-date: 15-01-2024
+date: Summer 2023
 location: "Bhubaneswar, India"
 ---
 
