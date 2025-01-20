@@ -67,26 +67,24 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 
   - Chegg subject matter expert in Calculus
 
-    <!--- Fall 2015: Research Assistant-->
-    <!---->
-    <!--  - Github University-->
-    <!--  - Duties included: Merging pull requests-->
-    <!--  - Supervisor: Professor Hub-->
-    <!---->
-    <!--- Summer 2015: Research Assistant-->
-    <!--  - Github University-->
-    <!--  - Duties included: Tagging issues-->
-    <!--  - Supervisor: Professor Git-->
+# Scholastic Achievements and Fellowships
 
-<!--# Skills-->
-<!---->
-<!--- Skill 1-->
-<!--- Skill 2-->
-<!--  - Sub-skill 2.1-->
-<!--  - Sub-skill 2.2-->
-<!--  - Sub-skill 2.3-->
-<!--- Skill 3-->
-<!---->
+- National Board for Higher Mathematics [(NBHM)](https://www.imsc.res.in/~nbhm/) Master’s scholarship fellow, 2023-24.
+- Graduate Aptitude Test in Engineering [(GATE)](https://gate.iitkgp.ac.in/)-2022 qualified.
+- Joint Admission test for Masters [(JAM)](https://jam.iitr.ac.in/)-2022 qualified.
+- BSc. Mathematics Department topper (2019-22 batch) in Maharaja Purna Chandra (MPC) Autonomous College.
+
+# Skills
+
+- Python
+  - Libraries: NGSlove, Matplotlib, NumPy, and SimPy
+- MATLAB
+- C++
+- GitHub
+- LaTeX
+- R
+- Languages: English, Hindi, and Odia
+
 <!--# Publications-->
 <!---->
 <!--  <ul>{% for post in site.publications reversed %}-->
