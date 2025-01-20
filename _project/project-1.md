@@ -1,6 +1,7 @@
 ---
-title: "Master's Project"
+title: "An asymptotic preserving and energy stable finite volume scheme for the compressible Euler equations with congestion constraint"
 collection: project
+type: "Master's project"
 permalink: /project/project-1
 venue: "Indian Institute of Science Education and Research, Thiruvananthapuram (IISER TVM), Department of Mathematics"
 date: 15-01-2024
