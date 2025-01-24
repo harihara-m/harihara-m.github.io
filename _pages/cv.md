@@ -85,19 +85,21 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 - R
 - Languages: English, Hindi, and Odia
 
-<!--# Publications-->
-<!---->
+# Publications
+
+- K. Arun, A. Krishnamurthy, and [H. Maharna](https://scholar.google.com/citations?user=xUMkKU8AAAAJ&hl=en). An asymptotic preserving and energy stable scheme for the euler system with congestion constraint. Applied Mathematics and Computation, 495:129306, 2025. [[arXiv](href="https://arxiv.org/abs/2406.14168)| [link](https://doi.org/10.1016/j.amc.2025.129306)]
+
 <!--  <ul>{% for post in site.publications reversed %}-->
-<!--    {% include archive-single-cv.html %}-->
-<!--  {% endfor %}</ul>-->
-<!---->
-<!--Talks-->
-<!--======-->
-<!--  <ul>{% for post in site.talks reversed %}-->
-<!--    {% include archive-single-talk-cv.html  %}-->
-<!--  {% endfor %}</ul>-->
-<!---->
-<!---->
-<!--Service and leadership-->
-<!--======-->
-<!--* Currently signed in to 43 different slack teams-->
+  <!--    {% include archive-single-cv.html %}-->
+  <!--  {% endfor %}</ul>-->
+  <!---->
+  <!--Talks-->
+  <!--======-->
+  <!--  <ul>{% for post in site.talks reversed %}-->
+  <!--    {% include archive-single-talk-cv.html  %}-->
+  <!--  {% endfor %}</ul>-->
+  <!---->
+  <!---->
+  <!--Service and leadership-->
+  <!--======-->
+  <!--* Currently signed in to 43 different slack teams-->
