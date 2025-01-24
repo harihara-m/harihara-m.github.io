@@ -12,24 +12,31 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-{% for category in site.publication_category %}
-{% assign title_shown = false %}
-{% for post in site.publications reversed %}
-{% if post.category != category[0] %}
-{% continue %}
-{% endif %}
-{% unless title_shown %}
-<h2>{{ category[1].title }}</h2>
-<hr />
-{% assign title_shown = true %}
-{% endunless %}
-{% include archive-single.html %}
-{% endfor %}
-{% endfor %}
-{% else %}
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
-{% endif %}
+<ol reversed>
+    <li>K. Arun, A. Krishnamurthy, and <a href="https://scholar.google.com/citations?user=xUMkKU8AAAAJ&hl=en">H.
+            Maharna</a>. An asymptotic preserving and energy stable scheme for the euler system with congestion
+        constraint. Applied Mathematics and Computation, 495:129306, 2025. [<a
+            href="https://arxiv.org/abs/2406.14168">arXiv</a> | <a href="url">link</a>] </li>
+</ol>
+
+<!--<!-- New style rendering if publication categories are defined -->-->
+<!--{% if site.publication_category %}-->
+<!--{% for category in site.publication_category %}-->
+<!--{% assign title_shown = false %}-->
+<!--{% for post in site.publications reversed %}-->
+<!--{% if post.category != category[0] %}-->
+<!--{% continue %}-->
+<!--{% endif %}-->
+<!--{% unless title_shown %}-->
+<!--<h2>{{ category[1].title }}</h2>-->
+<!--<hr />-->
+<!--{% assign title_shown = true %}-->
+<!--{% endunless %}-->
+<!--{% include archive-single.html %}-->
+<!--{% endfor %}-->
+<!--{% endfor %}-->
+<!--{% else %}-->
+<!--{% for post in site.publications reversed %}-->
+<!--{% include archive-single.html %}-->
+<!--{% endfor %}-->
+<!--{% endif %}-->
