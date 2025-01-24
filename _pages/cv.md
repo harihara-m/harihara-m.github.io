@@ -29,7 +29,7 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 
 # Publications
 
-- K. Arun, A. Krishnamurthy, and [H. Maharna](https://scholar.google.com/citations?user=xUMkKU8AAAAJ&hl=en). An asymptotic preserving and energy stable scheme for the euler system with congestion constraint. Applied Mathematics and Computation, 495:129306, 2025. \[[arXiv](href="https://arxiv.org/abs/2406.14168)| [link](https://doi.org/10.1016/j.amc.2025.129306)\]
+- K. Arun, A. Krishnamurthy, and [H. Maharna](https://scholar.google.com/citations?user=xUMkKU8AAAAJ&hl=en). An asymptotic preserving and energy stable scheme for the euler system with congestion constraint. Applied Mathematics and Computation, 495:129306, 2025. ([arXiv](https://arxiv.org/abs/2406.14168)| [link](https://doi.org/10.1016/j.amc.2025.129306))
 
 # Projects and Internships
 
