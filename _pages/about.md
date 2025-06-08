@@ -20,18 +20,35 @@ Previously, I completed my **M.Sc. in Mathematics** at the [Indian Institute of 
 - 📧 hmaharna[at]nd.edu
 - 📧 hariharamaharna1644[at]gmail.com
 
-<!------->
-<!--permalink: /-->
-<!--title: "Harihara Maharna"-->
-<!--author_profile: true-->
-<!--redirect_from:-->
-<!--  - /about/-->
-<!--  - /about.html-->
-<!------->
-<!---->
-<!--Hi! Welcome to my website! I'm Harihara Maharna, a first-year Applied Mathematics PhD student in the Department of Applied and Computational Mathematics and Statistics (ACMS) of the University of Notre Dame, South Bend, IN, US. I did my master's in mathematics from IISER Thiruvananthapuram, Kerala, India, and my master's project was under the supervision of Dr. K. R. Arun.-->
-<!---->
-<!--You can contact me via:-->
-<!---->
-<!--- hmaharna[at]nd.edu-->
-<!--- hariharamaharna1644[at]gmail.com-->
+<hr style="margin-top: 2rem;">
+
+<h2 style="text-align: center;">🔗 Quick Access</h2>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1rem;">
+
+  <a href="/publications/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #f0f8ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #003366;">
+    <h3>📚 Publications</h3>
+    <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
+  </a>
+
+  <a href="/cv/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fff5e6; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #663300;">
+    <h3>📄 CV</h3>
+    <p style="font-size: 0.9em;">Get an overview of my academic and research experience.</p>
+  </a>
+
+  <a href="/teaching/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6ffe6; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #336600;">
+    <h3>📘 Teaching</h3>
+    <p style="font-size: 0.9em;">Courses I’ve assisted or instructed as a graduate student.</p>
+  </a>
+
+  <a href="/project/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #004080;">
+    <h3>🛠️ Projects</h3>
+    <p style="font-size: 0.9em;">Discover my research, academic, and personal projects.</p>
+  </a>
+
+  <a href="/more/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fff0f5; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #800040;">
+    <h3>🎯 Beyond Academics</h3>
+    <p style="font-size: 0.9em;">Learn about my interests and life outside the lab!</p>
+  </a>
+
+</div>
