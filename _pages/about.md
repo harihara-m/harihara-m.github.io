@@ -38,17 +38,17 @@ Previously, I completed my **M.Sc. in Mathematics** at the [Indian Institute of 
 
   <a href="/teaching/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6ffe6; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #336600;">
     <h3>📘 Teaching</h3>
-    <p style="font-size: 0.9em;">Courses I’ve assisted or instructed as a graduate student.</p>
+    <p style="font-size: 0.9em;">Courses I have assisted or instructed as a graduate student.</p>
   </a>
 
   <a href="/project/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6f2ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #004080;">
-    <h3>🛠️ Projects</h3>
+    <h3>🧠 Projects</h3>
     <p style="font-size: 0.9em;">Discover my research, academic, and personal projects.</p>
   </a>
 
   <a href="/more/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fff0f5; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #800040;">
-    <h3>🎯 Beyond Academics</h3>
-    <p style="font-size: 0.9em;">Learn about my interests and life outside the lab!</p>
+    <h3>🌍 Beyond Academics</h3>
+    <p style="font-size: 0.9em;">Learn about my interests and life outside PhD work!</p>
   </a>
 
 </div>
