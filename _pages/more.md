@@ -134,9 +134,9 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     </ul>
   </details>
 
-</details>I am always looking to expand this list and discover more of the world in my free time.
+</details>I am always looking to expand this list and discover more of the world in my free time!
 
-## Connect
+## Connect:
 
 While this site focuses on my academic journey, I am also active on social media. Feel free to connect with me on [Facebook](https://www.facebook.com/hariharamaharna1644/) or [Instagram](https://www.instagram.com/hariharamaharna/).
 
