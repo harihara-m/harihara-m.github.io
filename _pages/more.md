@@ -11,19 +11,19 @@ redirect_from:
 
 Welcome to a glimpse into my life outside my PhD studies! While my research is a significant part of my journey, I believe in fostering a balanced life. This page shares some of my personal interests and activities.
 
-## My Interests
+# My Interests
 
 I enjoy engaging in activities that offer a refreshing break from my academic work. My primary interests include:
 
-### Exploring Diverse Cinematic Works:
+## Exploring Diverse Cinematic Works:
 
 I love watching movies from across the globe, ranging from critically acclaimed international films to hidden regional gems. This passion has helped me understand diverse cultures and perspectives, constantly expanding my worldview. I am always open to movie recommendations, so if you have any favorites (especially regional or lesser-known titles), please feel free to share them! I am continuously building a list of the movies I have watched which can be found [here](https://letterboxd.com/hmaharna/films/by/rating/).
 
-### Fitness and Recreation:
+## Fitness and Recreation:
 
 To maintain an active lifestyle and unwind, I regularly engage in various physical activities. I play badminton on the Notre Dame campus, incorporate gym workouts into my routine, and often run 5Ks around the scenic campus lakes. If you are an ND student interested in badminton, gym workouts, or group runs, feel free to connect, I would be happy to join!
 
-### Travel and Cultural Exploration:
+## Travel and Cultural Exploration:
 
 Traveling is another passion of mine. I enjoy exploring different cultures and landscapes. Traveling allows me to broaden my perspective and appreciate the diversity of our world. So far, my travels have taken me to:
 
@@ -111,7 +111,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
 
 </details>I am always looking to expand this list and discover more of the world in my free time.
 
-### Connect
+## Connect
 
 While this site focuses on my academic journey, I am also active on social media. Feel free to connect with me on [Facebook](https://www.facebook.com/hariharamaharna1644/) or [Instagram](https://www.instagram.com/hariharamaharna/).
 
