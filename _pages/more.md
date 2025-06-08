@@ -15,7 +15,7 @@ I enjoy engaging in activities that offer a refreshing break from my academic wo
 
 ## Exploring Diverse Cinematic Works:
 
-I love watching movies from across the globe, ranging from critically acclaimed international films to hidden regional gems. This passion has helped me understand diverse cultures and perspectives, constantly expanding my worldview. I am always open to movie recommendations, so if you have any favorites (especially regional or lesser-known titles), please feel free to share them! I am continuously building a list of the movies I have watched which can be found [here](https://letterboxd.com/hmaharna/films/by/rating/).
+I love watching movies from across the globe, ranging from critically acclaimed international films to hidden regional gems. This passion has helped me understand diverse cultures and perspectives, constantly expanding my worldview. I am always open to movie recommendations, so if you have any favorites (especially regional or lesser-known titles), please feel free to share them! [I am continuously building a list of the movies I have watched which can be found here](https://letterboxd.com/hmaharna/films/by/rating/).
 
 ## Fitness and Recreation:
 
