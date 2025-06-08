@@ -35,14 +35,14 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 
 {% assign main_projects = site.project | where: "type", "Project" | sort: 'date' | reverse %}
 {% for post in main_projects %}
-{% include archive-single.html %}
+{% include archive-single-cv.html %}
 {% endfor %}
 
 # Selected Class Projects
 
 {% assign class_projects = site.project | where: "type", "Class Project" | sort: 'date' | reverse %}
 {% for post in class_projects %}
-{% include archive-single.html %}
+{% include archive-single-cv.html %}
 {% endfor %}
 
 <!--Master’s Project (<span style="color:cyan">Jan-May 2024</span>)-->
