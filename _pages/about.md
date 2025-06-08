@@ -26,9 +26,9 @@ Previously, I completed my **M.Sc. in Mathematics** at the [Indian Institute of 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1rem;">
 
-  <a href="/publications/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #f0f8ff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #003366;">
-    <h3>📚 Publications</h3>
-    <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
+  <a href="/publications/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6f4ea; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #14532d;">
+  <h3>📚 Publications</h3>
+  <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
   </a>
 
   <a href="/cv/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fff5e6; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #663300;">
