@@ -1,7 +1,7 @@
 ---
 title: "An Asymptotic Preserving and Energy Stable Scheme for the Euler System with Congestion Constraint "
 collection: project
-type: "Master's project"
+type: "Project"
 permalink: /project/project-2
 venue: "Indian Institute of Science Education and Research (IISER), Thiruvananthapuram, Department of Mathematics"
 date: 15-01-2024

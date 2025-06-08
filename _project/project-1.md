@@ -1,7 +1,7 @@
 ---
 title: "Differential Equations"
 collection: project
-type: "Summer project"
+type: "Project"
 permalink: /project/project-1
 venue: "National Institute of Science Education and Research (NISER), Bhubaneswar"
 date: 01-06-2023

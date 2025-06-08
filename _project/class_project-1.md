@@ -1,7 +1,7 @@
 ---
 title: "Impact of hemodynamic parameters on rupture risk in abdominal aortic aneurysm: Emphasis on wall shear stress-derived indicators "
 collection: project
-type: "Class project"
+type: "Class Project"
 permalink: /project/class_project-1
 venue: "University of Notre Dame"
 course: "ACMS 60792 Numerical hemodynamics and Uncertainty Quantifciation"
