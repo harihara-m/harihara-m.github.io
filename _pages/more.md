@@ -31,7 +31,8 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
   <details>
     <summary><strong>Odisha</strong> <span style="font-weight: normal;">(home state)</span></summary>
     <ul>
-      <summary><strong>Baleshwar</strong> <span style="font-weight: normal;">(home town)</span></summary>
+      <summary><strong>Baleshwar</strong><span style="font-weight: normal;">(home town)</span></summary>
+      <li>Baleshwar <span style="font-weight: normal;">(home town)</span></li>
       <li>Bhubaneswar</li>
       <li>Baripada</li>
       <li>Cuttack</li>
@@ -99,6 +100,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
       <li>Michigan City</li>
       <li>Potato Creek State Park</li>
       <li>Potawatomi Zoo</li>
+      <li>Heatherwood Equestrian Academy</li>
       <!-- Add more cities here -->
     </ul>
   </details>
