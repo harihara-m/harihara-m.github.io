@@ -29,10 +29,12 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
   <summary><strong><span style="color:blue">India</span></strong></summary>
 
   <details>
-    <summary><strong>Odisha</strong></summary>
+    <summary><strong>Odisha</strong> <span style="font-weight: normal;">(home state)</span></summary>
     <ul>
-      <li>Balasore</li>
-      <!-- Add more cities here if needed -->
+      <summary><strong>Baleshwar</strong> <span style="font-weight: normal;">(home town)</span></summary>
+      <li>Bhubaneswar</li>
+      <li>Baripada</li>
+      <li>Cuttack</li>
     </ul>
   </details>
 
@@ -41,6 +43,8 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <ul>
       <li>Thiruvananthapuram</li>
       <li>Alleppey</li>
+      <li>Munnar</li>
+      <li>Ponmudi Hill Station</li>
       <!-- Add or adjust as needed -->
     </ul>
   </details>
@@ -49,6 +53,10 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>Karnataka</strong></summary>
     <ul>
       <li>Bengaluru</li>
+      <li>Davanagere</li>
+      <li>Hampi</li>
+      <li>Chitradurga Fort</li>
+      <li>Jigani</li>
     </ul>
   </details>
 
@@ -56,6 +64,8 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>West Bengal</strong></summary>
     <ul>
       <li>Kolkata</li>
+      <li>Digha</li>
+      <li>Kharagpur</li>
     </ul>
   </details>
 
@@ -70,6 +80,8 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>Tamil Nadu</strong></summary>
     <ul>
       <li>Rameswaram</li>
+      <li>Madurai</li>
+      <li>Kanniyakumari</li>
     </ul>
   </details>
 
@@ -81,7 +93,12 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
   <details>
     <summary><strong>Indiana</strong></summary>
     <ul>
-      <li>South Bend</li>
+      <summary><strong>South Bend</strong> <span style="font-weight: normal;">(current location)</span></summary>
+      <li>Indianapolis</li>
+      <li>Indiana Dunes National Park</li>
+      <li>Michigan City</li>
+      <li>Potato Creek State Park</li>
+      <li>Potawatomi Zoo</li>
       <!-- Add more cities here -->
     </ul>
   </details>
@@ -90,6 +107,13 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>Illinois</strong></summary>
     <ul>
       <li>Chicago</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><strong>Michigan</strong></summary>
+    <ul>
+      <li>Fernwood Botanical Garden</li>
     </ul>
   </details>
 
