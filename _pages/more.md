@@ -31,8 +31,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
   <details>
     <summary><strong>Odisha</strong> <span style="font-weight: normal;">(home state)</span></summary>
     <ul>
-      <summary><strong>Baleshwar</strong><span style="font-weight: normal;">(home town)</span></summary>
-      <li>Baleshwar <span style="font-weight: normal;">(home town)</span></li>
+      <li>Baleshwar (home town)</li>
       <li>Bhubaneswar</li>
       <li>Baripada</li>
       <li>Cuttack</li>
@@ -92,9 +91,9 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
   <summary><strong><span style="color:blue">United States</span></strong></summary>
 
   <details>
-    <summary><strong>Indiana</strong></summary>
+    <summary><strong>Indiana</strong> <span style="font-weight: normal;">(current state)</span></summary>
     <ul>
-      <summary><strong>South Bend</strong> <span style="font-weight: normal;">(current location)</span></summary>
+      <li>South Bend (current town)</li>
       <li>Indianapolis</li>
       <li>Indiana Dunes National Park</li>
       <li>Michigan City</li>
