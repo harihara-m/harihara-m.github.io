@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-<h2> Research & Internship Projects
-    {% assign main_projects = site.project | where: "type", "Project" | sort: 'date' | reverse %}
-    {% for post in main_projects %}
-    {% include archive-single.html %}
-    {% endfor %}
+<h2>Research and Internship Projects</h2>
+{% assign main_projects = site.project | where: "type", "Project" | sort: 'date' | reverse %}
+{% for post in main_projects %}
+{% include archive-single.html %}
+{% endfor %}
 
-    <h2> Class Projects
-        {% assign class_projects = site.project | where: "type", "Class Project" | sort: 'date' | reverse %}
-        {% for post in class_projects %}
-        {% include archive-single.html %}
-        {% endfor %}
+<h2>Selected Class Projects</h2>
+{% assign class_projects = site.project | where: "type", "Class Project" | sort: 'date' | reverse %}
+{% for post in class_projects %}
+{% include archive-single.html %}
+{% endfor %}
