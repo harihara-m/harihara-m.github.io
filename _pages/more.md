@@ -26,7 +26,7 @@ To maintain an active lifestyle and unwind, I regularly engage in various physic
 Traveling is another passion of mine. I enjoy exploring different cultures and landscapes. Traveling allows me to broaden my perspective and appreciate the diversity of our world. So far, my travels have taken me to:
 
 <details>
-  <summary><strong>India</strong></summary>
+  <summary><strong><span style="color:cyan">India</span></strong></summary>
 
   <details>
     <summary><strong>Odisha</strong></summary>
@@ -76,7 +76,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
 </details>
 
 <details>
-  <summary><strong>United States</strong></summary>
+  <summary><strong><span style="color:cyan">United States</span></strong></summary>
 
   <details>
     <summary><strong>Indiana</strong></summary>
