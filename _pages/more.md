@@ -33,6 +33,8 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <ul>
       <li>Baleshwar (home town)</li>
       <li>Bhubaneswar</li>
+      <li>Puri</li>
+      <li>Konark</li>
       <li>Baripada</li>
       <li>Cuttack</li>
     </ul>
