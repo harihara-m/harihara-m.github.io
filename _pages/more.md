@@ -11,8 +11,6 @@ redirect_from:
 
 Welcome to a glimpse into my life outside my PhD studies! While my research is a significant part of my journey, I believe in fostering a balanced life. This page shares some of my personal interests and activities.
 
-# My Interests
-
 I enjoy engaging in activities that offer a refreshing break from my academic work. My primary interests include:
 
 ## Exploring Diverse Cinematic Works:
