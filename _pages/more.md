@@ -32,10 +32,26 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>Odisha</strong> <span style="font-weight: normal;">(home state)</span></summary>
     <ul>
       <li>Baleshwar (home town)</li>
+      <li>Chandipur Sea Beach</li>
+      <li>Emami Jagannath Temple</li>
+      <li>Panchalingeswar Temple</li>
       <li>Bhubaneswar</li>
+      <li>Nandankanan Zoological Park</li>
+      <li>Udayagiri and Khandagiri Caves</li>
+      <li>Dhauli Shanti Stupa</li>
+      <li>Regional Museum of Natural History</li>
+      <li>Odisha State Museum</li>
+      <li>Lingaraj Temple</li>
+      <li>Mukteshwar Mahadev Temple</li>
+      <li>Rajarani Temple</li>
+      <li>Kedaragauri Temple</li>
       <li>Puri</li>
-      <li>Konark</li>
+      <li>Shree Jagannatha Temple Puri</li>
+      <li>Shree Gundicha Temple</li>
+      <li>Sun Temple, Konarak</li>
       <li>Baripada</li>
+      <li>Similipal National Park</li>      
+      <li>Bāliḍihā Dam</li>
       <li>Cuttack</li>
     </ul>
   </details>
@@ -47,7 +63,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
       <li>Alleppey</li>
       <li>Munnar</li>
       <li>Ponmudi Hill Station</li>
-      <!-- Add or adjust as needed -->
     </ul>
   </details>
 
@@ -66,8 +81,8 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>West Bengal</strong></summary>
     <ul>
       <li>Kolkata</li>
-      <li>Digha</li>
       <li>Kharagpur</li>
+      <li>Digha</li>
     </ul>
   </details>
 
@@ -97,7 +112,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <ul>
       <li>South Bend (current town)</li>
       <li>Indianapolis</li>
-      <li>Indiana Dunes National Park</li>
+      <li>Indiana Dunes State Park</li>
       <li>Michigan City</li>
       <li>Potato Creek State Park</li>
       <li>Potawatomi Zoo</li>
