@@ -60,6 +60,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>Kerala</strong></summary>
     <ul>
       <li>Thiruvananthapuram</li>
+      <li>Sree Padmanabhaswamy Temple</li>
       <li>Alleppey</li>
       <li>Munnar</li>
       <li>Ponmudi Hill Station</li>
