@@ -19,7 +19,7 @@ I am a first-year PhD student in Applied Mathematics in the Applied Computationa
 - PhD Applied Mathematics (<span style="color:cyan">2024-current</span>)
   - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, South Bend, IN, US.
 - MSc. Mathematics (<span style="color:cyan">2022-2024</span>)
-  - School of Mathematics, IISER Thiruvananthapuram, India 2022-2024
+  - School of Mathematics, IISER Thiruvananthapuram, India 
 - BSc. Mathematics (<span style="color:cyan">2019-2022</span>)
   - Department of Mathematics, M. P. C. Autonomous College, Odisha, India
 - Higher Secondary (10+2) (<span style="color:cyan">2017-2019</span>)
