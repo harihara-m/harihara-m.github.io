@@ -126,6 +126,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     <summary><strong>Illinois</strong></summary>
     <ul>
       <li>Chicago</li>
+      <li>Champaign</li>
     </ul>
   </details>
 
@@ -150,6 +151,22 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     </ul>
   </details>
 
+  <details>
+    <summary><strong>Missouri</strong></summary>
+    <ul>
+      <li>St. Louis</li>
+      <li>Springfield</li>
+      <li>Joplin</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><strong>Oklahoma</strong></summary>
+    <ul>
+      <li>Oklahoma City</li>
+      <li>Norman</li>
+    </ul>
+  </details>
 </details>I am always looking to expand this list and discover more of the world in my free time!
 
 ## Connect:
