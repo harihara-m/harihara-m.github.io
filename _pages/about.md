@@ -7,30 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 🔹 Two-column layout: text (left) + photo (right) -->
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
 
-  <!-- LEFT SIDE: TEXT -->
+  <!-- LEFT SIDE -->
   <div style="flex: 1; min-width: 250px; max-width: 650px;">
+    <p>I am <b>Harihara Maharna</b>, a Ph.D. student in <b>Applied and Computational Mathematics</b> at the 
+    <a href="https://acms.nd.edu/">Department of Applied and Computational Mathematics and Statistics (ACMS)</a>, 
+    <b>University of Notre Dame</b>, IN, USA.</p>
 
-  I am **Harihara Maharna**, a Ph.D. student in **Applied and Computational Mathematics** at the [Department of Applied and Computational Mathematics and Statistics (ACMS)](https://acms.nd.edu/), **University of Notre Dame**, IN, USA.
+    <p>I am currently working under the supervision of 
+    <a href="https://acms.nd.edu/people/zhiliang-xu/">Dr. Zhiliang Xu</a>, focusing on developing deep neural network 
+    algorithms for multiscale models.</p>
 
-  I am currently working under the supervision of [Dr. Zhiliang Xu](https://acms.nd.edu/people/zhiliang-xu/), focusing on developing deep neural network algorithms for multiscale models.
+    <p>Previously, I completed my <b>M.Sc. in Mathematics</b> at the 
+    <a href="https://www.iisertvm.ac.in/">Indian Institute of Science Education and Research (IISER) Thiruvananthapuram</a>, 
+    Kerala, India, where I worked on my master’s project under the guidance of 
+    <a href="https://www.iisertvm.ac.in/faculty/arun">Dr. K. R. Arun</a>.</p>
 
-  Previously, I completed my **M.Sc. in Mathematics** at the [Indian Institute of Science Education and Research (IISER) Thiruvananthapuram](https://www.iisertvm.ac.in/), Kerala, India, where I worked on my master’s project under the guidance of [Dr. K. R. Arun](https://www.iisertvm.ac.in/faculty/arun).
+    <hr>
 
-  ---
-
-  📫 **You can contact me via:**
-
-  - 📧 hmaharna[at]nd.edu  
-  - 📧 hariharamaharna1644[at]gmail.com
-
+    <p>📫 <b>You can contact me via:</b></p>
+    <ul>
+      <li>📧 hmaharna[at]nd.edu</li>
+      <li>📧 hariharamaharna1644[at]gmail.com</li>
+    </ul>
   </div>
 
-  <!-- RIGHT SIDE: PHOTO -->
+  <!-- RIGHT SIDE -->
   <div style="flex: 0 0 220px; margin-left: 30px; text-align: center;">
-    <img src="/images/ND_logo.png" alt="Harihara Maharna" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    <img src="/assets/images/harihara.jpg" alt="Harihara Maharna" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
   </div>
 
 </div>
