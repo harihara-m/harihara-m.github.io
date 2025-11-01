@@ -35,9 +35,15 @@ redirect_from:
 
   <!-- RIGHT SIDE -->
   <div style="flex: 0 0 220px; margin-left: 30px; text-align: center;">
-    <img src="/assets/images/harihara.jpg" alt="Harihara Maharna" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    <img src="/images/ND_logo.png" alt="Harihara Maharna" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
   </div>
 
+  <div style="flex: 0 0 220px; margin-left: 30px; text-align: center;">
+    <img src="/images/IISER_TVM_logo.jpg" alt="Harihara Maharna" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+  </div>
+  <div style="flex: 0 0 220px; margin-left: 30px; text-align: center;">
+    <img src="/images/MPC_logo.jpeg" alt="Harihara Maharna" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+  </div>
 </div>
 
 <hr style="margin-top: 2rem;">
