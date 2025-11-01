@@ -34,7 +34,7 @@ redirect_from:
   </div>
 
   <!-- RIGHT SIDE -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 40px;">
 
   <div style="text-align: center;">
     <img src="/images/ND_logo.png" alt="ND Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
