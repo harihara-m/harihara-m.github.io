@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 280px; align-items: start; gap: 50px;">
+<div style="display: grid; grid-template-columns: 1fr auto; align-items: start; gap: 50px; width: 100%;">
 
   <!-- LEFT COLUMN -->
   <div>
@@ -34,7 +34,7 @@ redirect_from:
   </div>
 
   <!-- RIGHT COLUMN -->
-  <div style="display: flex; flex-direction: column; align-items: flex-end; justify-content: flex-start; gap: 30px;">
+<div style="display: flex; flex-direction: column; align-items: flex-end; justify-content: flex-start; gap: 30px; width: 100%;">
     <img src="/images/ND_logo.png" alt="ND Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
     <img src="/images/IISER_TVM_logo.jpg" alt="IISER Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
     <img src="/images/MPC_logo.jpeg" alt="MPC Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
