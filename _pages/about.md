@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 40px;">
 
   <!-- LEFT SIDE -->
-  <div style="flex: 1; min-width: 250px; max-width: 650px;">
+  <div style="flex: 1 1 600px; min-width: 300px; margin-right: 40px;">
     <p>I am <b>Harihara Maharna</b>, a Ph.D. student in <b>Applied and Computational Mathematics</b> at the 
     <a href="https://acms.nd.edu/">Department of Applied and Computational Mathematics and Statistics (ACMS)</a>, 
     <b>University of Notre Dame</b>, IN, USA.</p>
@@ -34,21 +34,11 @@ redirect_from:
   </div>
 
   <!-- RIGHT SIDE -->
-<div style="display: flex; flex-direction: column; align-items: center; gap: 40px;">
-
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: flex-end; justify-content: flex-start; gap: 30px; flex: 0 0 auto;">
     <img src="/images/ND_logo.png" alt="ND Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-  </div>
-
-  <div style="text-align: center;">
     <img src="/images/IISER_TVM_logo.jpg" alt="IISER Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-  </div>
-
-  <div style="text-align: center;">
     <img src="/images/MPC_logo.jpeg" alt="MPC Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
   </div>
-
-</div>
 
 </div>
 
