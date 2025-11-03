@@ -10,36 +10,54 @@ redirect_from:
 <div style="display: grid; grid-template-columns: 1fr auto; align-items: start; gap: 50px; width: 100%;">
 
   <!-- LEFT COLUMN -->
-  <div>
-    <p>I am <b>Harihara Maharna</b>, a Ph.D. student in <b>Applied and Computational Mathematics</b> at the 
-    <a href="https://acms.nd.edu/">Department of Applied and Computational Mathematics and Statistics (ACMS)</a>, 
-    <b>University of Notre Dame</b>, IN, USA.</p>
+<div style="max-width: 1100px; margin: 0 auto; padding: 8px;">
+  <div style="
+      display: grid;
+      grid-template-columns: 1fr 280px;
+      align-items: start;
+      gap: 48px;
+      width: 100%;
+    ">
 
-    <p>I am currently working under the supervision of 
-    <a href="https://acms.nd.edu/people/zhiliang-xu/">Dr. Zhiliang Xu</a>, focusing on developing deep neural network 
-    algorithms for multiscale models.</p>
+    <!-- LEFT COLUMN: text -->
+    <div style="min-width: 0;"> 
+      <p>I am <b>Harihara Maharna</b>, a Ph.D. student in <b>Applied and Computational Mathematics</b> at the 
+      <a href="https://acms.nd.edu/">Department of Applied and Computational Mathematics and Statistics (ACMS)</a>, 
+      <b>University of Notre Dame</b>, IN, USA.</p>
 
-    <p>Previously, I completed my <b>M.Sc. in Mathematics</b> at the 
-    <a href="https://www.iisertvm.ac.in/">Indian Institute of Science Education and Research (IISER) Thiruvananthapuram</a>, 
-    Kerala, India, where I worked on my master’s project under the guidance of 
-    <a href="https://www.iisertvm.ac.in/faculty/arun">Dr. K. R. Arun</a>.</p>
+      <p>I am currently working under the supervision of 
+      <a href="https://acms.nd.edu/people/zhiliang-xu/">Dr. Zhiliang Xu</a>, focusing on developing deep neural network 
+      algorithms for multiscale models.</p>
 
-    <hr>
+      <p>Previously, I completed my <b>M.Sc. in Mathematics</b> at the 
+      <a href="https://www.iisertvm.ac.in/">Indian Institute of Science Education and Research (IISER) Thiruvananthapuram</a>, 
+      Kerala, India, where I worked on my master’s project under the guidance of 
+      <a href="https://www.iisertvm.ac.in/faculty/arun">Dr. K. R. Arun</a>.</p>
 
-    <p>📫 <b>You can contact me via:</b></p>
-    <ul>
-      <li>📧 hmaharna[at]nd.edu</li>
-      <li>📧 hariharamaharna1644[at]gmail.com</li>
-    </ul>
+      <hr>
+
+      <p>📫 <b>You can contact me via:</b></p>
+      <ul>
+        <li>📧 hmaharna[at]nd.edu</li>
+        <li>📧 hariharamaharna1644[at]gmail.com</li>
+      </ul>
+    </div>
+
+    <!-- RIGHT COLUMN: logos flush to the right -->
+    <div style="
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: flex-start;
+        gap: 28px;
+        padding-left: 6px;
+      ">
+      <img src="/images/ND_logo.png" alt="ND Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+      <img src="/images/IISER_TVM_logo.jpg" alt="IISER Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+      <img src="/images/MPC_logo.jpeg" alt="MPC Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    </div>
+
   </div>
-
-  <!-- RIGHT COLUMN -->
-<div style="display: flex; flex-direction: column; align-items: flex-end; justify-content: flex-start; gap: 30px; width: 100%;">
-    <img src="/images/ND_logo.png" alt="ND Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-    <img src="/images/IISER_TVM_logo.jpg" alt="IISER Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-    <img src="/images/MPC_logo.jpeg" alt="MPC Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-  </div>
-
 </div>
 
 <hr style="margin-top: 2rem;">
