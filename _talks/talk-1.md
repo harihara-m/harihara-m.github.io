@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-1
 venue: "Scientific Machine Learning: Theory, Algorithm, and Applications Workshop"
-date: 2025-09-27
+date: 2025-09-28
 location: "Purdue University, West Lafayette, IN"
 ---
 
