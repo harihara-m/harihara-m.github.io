@@ -65,7 +65,6 @@ redirect_from:
   </a>
 
   <a href="/talks/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #ffebeb; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #e63946;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Megaphone_icon.svg/1200px-Megaphone_icon.svg.png" alt="Talks Logo" style="width: 40px; height: 40px; margin-bottom: 10px;">
     <h3>🗣️ Talks</h3>
     <p style="font-size: 0.9em;">Dive into the various talks I’ve delivered at conferences, workshops, and events.</p>
   </a>
