@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: grid; grid-template-columns: 1fr auto; align-items: start; gap: 50px; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: start; width: 100%;">
 
   <!-- LEFT COLUMN -->
   <div>
