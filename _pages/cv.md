@@ -80,19 +80,20 @@ You can find the PDF version of my CV [here](http://harihara-m.github.io/files/C
   - Chegg subject matter expert in Calculus
 
 # Scholastic Achievements and Fellowships
-
-- National Board for Higher Mathematics [(NBHM)](https://www.imsc.res.in/~nbhm/) Master’s scholarship fellow, 2023-24.
-- Graduate Aptitude Test in Engineering [(GATE)](https://gate.iitkgp.ac.in/)-2022 qualified.
-- Joint Admission test for Masters [(JAM)](https://jam.iitr.ac.in/)-2022 qualified.
-- BSc. Mathematics Department topper (2019-22 batch) in Maharaja Purna Chandra (MPC) Autonomous College.
+- Departmental Award, ACMS Department, University of Notre Dame, 2025
+    - Awarded for the highest score in the Applied Mathematics qualifying exam; USD 500.
+- NBHM Master’s Fellowship, National Board for Higher Mathematics [(NBHM)](https://www.imsc.res.in/~nbhm/), 2022-24
+    - Awarded through a national-level examination conducted by the Government of India to support master’s studies; INR 168,000
+<!-- - Graduate Aptitude Test in Engineering [(GATE)](https://gate.iitkgp.ac.in/)-2022 qualified. -->
+<!-- - Joint Admission test for Masters [(JAM)](https://jam.iitr.ac.in/)-2022 qualified. -->
+- Valedictorian in BSc Mathematics, M. P. C. Autonomous College, 2002​
+    - Graduated top of class in the 2019–2022 cohort.
 
 # Skills
-
-- Python
-  - Libraries: NGSlove, Matplotlib, NumPy, and SimPy
-- MATLAB
-- C++
-- GitHub
-- LaTeX
-- R
+- Computational Methods
+  - Deep Neural Networks, Physics-Informed Neural Networks, Computational Fluid Dynamics, Numerical Analysis, Finite Element Methods, Finite Volume Methods, Finite Difference Methods.
+- Programming
+  - Python (PyTorch, SimVascular, NGSolve, SciPy, Pandas), MATLAB, R.
+- Tools & Platforms
+  - Github, Linux, LATEX, Jupyter Notebooks.
 - Languages: English, Hindi, and Odia
