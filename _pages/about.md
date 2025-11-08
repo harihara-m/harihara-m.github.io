@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: start; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: start; width: 100%; gap: 50px;">
 
-  <!-- LEFT COLUMN -->
   <div>
     <p>I am <b>Harihara Maharna</b>, a Ph.D. student in <b>Applied and Computational Mathematics</b> at the 
     <a href="https://acms.nd.edu/">Department of Applied and Computational Mathematics and Statistics (ACMS)</a>, 
@@ -29,21 +28,19 @@ redirect_from:
     <p>📫 <b>You can contact me via:</b></p>
     <ul>
       <li>📧 hmaharna[at]nd.edu</li>
-      <li>📧 hariharamaharna1644[at]gmail.com</li>
+      <li>📧 hariharamaharna14[at]gmail.com</li>
     </ul>
   </div>
 
-  <!-- RIGHT COLUMN -->
-<div style="display: flex; flex-direction: column; justify-content: flex-start; gap: 90px;">
+  <div style="display: flex; flex-direction: column; justify-content: flex-start; gap: 30px;">
     <img src="/images/ND_logo.png" alt="ND Logo" style="width: 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); background: transparent;">
     <hr style="border: 1px solid #ccc; width: 100%; margin: 20px 0;">
     <img src="/images/IISER_TVM_logo.jpg" alt="IISER Logo" style="width: 600px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); background: transparent;">
     <hr style="border: 1px solid #ccc; width: 100%; margin: 20px 0;">
-    <!-- <img src="/images/MPC_logo.jpeg" alt="MPC Logo" style="width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);"> -->
-    <!-- <hr style="border: 1px solid #ccc; width: 100%; margin: 20px 0;"> -->
-  </div>
+    </div>
 
 </div>
+
 
 <hr style="margin-top: 2rem;">
 
