@@ -15,19 +15,6 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          <ul class="visible-links">
-             {%- for link in site.data.navigation.main -%}
-                <li class="masthead__menu-item">
-                  <a href="{{ link.url | relative_url }}" {%- if link.description -%}title="{{ link.description }}"{%- endif -%}>{{ link.title }}</a>
-                </li>
-             {%- endfor -%}
-
-             <li class="masthead__menu-item">
-                <a href="#" id="theme-toggle" title="Toggle Theme">
-                  <i class="fas fa-moon"></i>&nbsp; Toggle Theme
-                </a>
-              </li>
-              </ul>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
