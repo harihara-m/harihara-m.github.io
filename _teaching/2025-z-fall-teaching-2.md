@@ -1,10 +1,10 @@
 ---
-title: "Numerical Analysis (SP25-ACMS-40390-CX-01)"
+title: "Numerical Analysis I (ACMS 60690)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2025-spring-teaching-2
+type: "Graduate course"
+permalink: /teaching/2025-z-fall-teaching-2
 venue: "University of Notre Dame, ACMS Department"
-date: 23-01-2025
+date: 23-08-2025
 location: "Notre Dame, IN"
 ---
 

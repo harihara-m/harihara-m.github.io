@@ -1,14 +1,14 @@
 ---
-title: "Introduction to Numerical Analysis (FA24-ACMS-20350-01)"
+title: "Introduction to Numerical Analysis (ACMS 20350)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-2
 venue: "University of Notre Dame, ACMS Department"
 date: 27-08-2024
-location: "South Bend, IN"
+location: "Notre Dame, IN"
 ---
 
-My main job was to held office hours and grade homework.
+As a Teaching Assistant, my main job is to held office hours and grade homework.
 
 <!--Heading 1-->
 <!--======-->

@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-[You can also find the PDF file from here.](http://harihara-m.github.io/files/CV.pdf)
+You can find the PDF version of my CV [here](http://harihara-m.github.io/files/CV.pdf) and my resume [here](http://harihara-m.github.io/files/Resume.pdf).
 
-# Summary
-
-I am a first-year PhD student in Applied Mathematics in the Applied Computational Mathematics and Statistics (ACMS) Department of the University of Notre Dame, IN, US. I am enthusiastic about learning numerical methods for solving differential equations.
+<!-- # Summary -->
+<!---->
+<!-- I am a first-year PhD student in Applied and Computational Mathematics in the Applied Computational Mathematics and Statistics (ACMS) Department of the University of Notre Dame, IN, US. I am enthusiastic about learning numerical methods for solving differential equations. -->
 
 # Education
 
