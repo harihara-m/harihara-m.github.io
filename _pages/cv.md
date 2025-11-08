@@ -17,7 +17,7 @@ You can find the PDF version of my CV [here](http://harihara-m.github.io/files/C
 # Education
 
 - PhD Applied Mathematics (<span style="color:cyan">2024-current</span>)
-  - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, South Bend, IN, US.
+  - Department of Applied and Computational Mathematics and Statistics (ACMS), University of Notre Dame, Notre Dame, IN, US.
 - MSc. Mathematics (<span style="color:cyan">2022-2024</span>)
   - School of Mathematics, IISER Thiruvananthapuram, India
 - BSc. Mathematics (<span style="color:cyan">2019-2022</span>)
@@ -27,9 +27,6 @@ You can find the PDF version of my CV [here](http://harihara-m.github.io/files/C
 - Secondary Examination (10th boards) (<span style="color:cyan">2016-2017</span>)
   - Budhabalanga High School, Odisha, India
 
-# Publications
-
-- K. Arun, A. Krishnamurthy, and [H. Maharna](https://scholar.google.com/citations?user=xUMkKU8AAAAJ&hl=en). An asymptotic preserving and energy stable scheme for the euler system with congestion constraint. Applied Mathematics and Computation, 495:129306, 2025.
 
 # Research and Internship Projects
 
@@ -57,27 +54,32 @@ You can find the PDF version of my CV [here](http://harihara-m.github.io/files/C
 <!--- Guide: Dr. Anupam Pal Choudhury, School of Mathematics, NISER Bhubaneswar, India-->
 <!--- Topic: Differential Equations-->
 
-# Teaching
-
-<ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-    {% endfor %}</ul>
-
 # Work Experience
 
-- Spring 2025: Teaching Assistant
+- Graduate Research Assistant, University of Notre Dame, Notre Dame, IN (<span style="color:cyan">June 2025-current</span>)
 
-  - University of Notre Dame
-  - Duties includes: Holding office hours and grading
+    - Project: [Deep Learning for Multiscale Models](https://harihara-m.github.io//project/project-3)
+    - Advisor: Dr. Zhiliang Xu, Professor, ACMS Department
 
-- Fall 2024: Teaching Assistant
+- [Teaching Assistant](https://harihara-m.github.io//teaching/), University of Notre Dame, Notre Dame, IN (<span style="color:cyan">Fall 2024-current</span>)
 
-  - University of Notre Dame
-  - Duties includes: Holding office hours and grading
+- Master's Research, IISER Thiruvananthapuram, Kerala, India (<span style="color:cyan">Jan-May 2024</span>)
 
-- Feb 2022- July 2023
+    - Project: [An Asymptotic-Preserving and Energy-Stable Scheme for the Euler System](https://harihara-m.github.io//project/project-2)
+    - Advisor: Dr. K. R. Arun, Associate Professor, School of Mathematics
 
-  - Chegg subject matter expert in Calculus
+- Summer Research Intern, NISER Bhubaneswar – Odisha, India (<span style="color:cyan">June-July 2023</span>)
+
+    - Topic: [Differential Equations](https://harihara-m.github.io//project/project-1)
+    - Guide: Dr. Anupam Pal Choudhury, Reader - F, Mathematical Sciences
+
+- Online Education Support, Chegg India (<span style="color:cyan">Feb 2022-July 2023</span>)
+
+<!-- # Teaching -->
+<!---->
+<!--   <ul>{% for post in site.teaching reversed %} -->
+<!-- {% include archive-single-cv.html %} -->
+<!-- {% endfor %}</ul> -->
 
 # Scholastic Achievements and Fellowships
 - Departmental Award, ACMS Department, University of Notre Dame, 2025
@@ -97,3 +99,7 @@ You can find the PDF version of my CV [here](http://harihara-m.github.io/files/C
 - Tools & Platforms
   - Github, Linux, LATEX, Jupyter Notebooks.
 - Languages: English, Hindi, and Odia
+
+# Publications
+
+- K. Arun, A. Krishnamurthy, and [H. Maharna](https://scholar.google.com/citations?user=xUMkKU8AAAAJ&hl=en). An asymptotic preserving and energy stable scheme for the Euler system with congestion constraint. Applied Mathematics and Computation, 495:129306, 2025.
