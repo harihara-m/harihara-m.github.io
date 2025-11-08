@@ -36,9 +36,11 @@ redirect_from:
   <!-- RIGHT COLUMN -->
 <div style="display: flex; flex-direction: column; align-items: flex-end; justify-content: flex-start; gap: 30px; width: 100%;">
     <img src="/images/ND_logo.png" alt="ND Logo" style="width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-    <hr style="border: 1px solid #ccc; width: 80%; margin: 20px 0;">
-    <img src="/images/IISER_TVM_logo.jpg" alt="IISER Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-    <img src="/images/MPC_logo.jpeg" alt="MPC Logo" style="width: 220px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    <hr style="border: 1px solid #ccc; width: 100%; margin: 20px 0;">
+    <img src="/images/IISER_TVM_logo.jpg" alt="IISER Logo" style="width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    <hr style="border: 1px solid #ccc; width: 100%; margin: 20px 0;">
+    <img src="/images/MPC_logo.jpeg" alt="MPC Logo" style="width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+    <hr style="border: 1px solid #ccc; width: 100%; margin: 20px 0;">
   </div>
 
 </div>
