@@ -9,7 +9,7 @@ location: "Bhubaneswar, India"
 ---
 
 - Guide: Dr. Anupam Pal Choudhury, School of Mathematics, NISER Bhubaneswar, India
-- Topic: Differential Equations
+About the project: This work was done during my Summer Research Intern position at NISER Bhubaneswar.
 - In this project, I studied scalar conservation laws and how they model physical phenomena
   with a particular emphasis on traffic dynamics.
 - I learned about weak (or integral) solutions, Rankine-Hugoniot condition, and entropy
