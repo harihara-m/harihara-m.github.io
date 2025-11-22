@@ -1,5 +1,5 @@
 ---
-title: "Numerical Analysis (SP25-ACMS-40390-CX-01)"
+title: "Numerical Analysis (ACMS 40390)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-2

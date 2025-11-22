@@ -1,7 +1,7 @@
 ---
-title: "Scientific Programming (SP25-ACMS-40210-CX)"
+title: "Scientific Programming (ACMS 40210 and ACMS 60210)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and Graduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "University of Notre Dame, ACMS Department"
 date: 23-01-2025

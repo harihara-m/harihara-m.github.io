@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-z-fall-teaching-3
 venue: "University of Notre Dame, Department of Data Science"
-date: 27-08-2024
+date: 27-08-2025
 location: "Notre Dame, IN"
 ---
 
