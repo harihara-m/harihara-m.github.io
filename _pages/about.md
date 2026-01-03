@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<div style="display: flex; justify-content: space-around; align-items: center; background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 2rem; flex-wrap: wrap; gap: 20px;">
+  <a href="https://www.nd.edu/" target="_blank" style="text-decoration: none; border-bottom: none;">
+    <img src="/images/ND_logo.png" alt="University of Notre Dame" style="height: 60px; width: auto; opacity: 0.9; transition: transform 0.2s;">
+  </a>
+  <div style="width: 1px; height: 50px; background: #ddd; display: block;"></div> <a href="https://www.iisertvm.ac.in/" target="_blank" style="text-decoration: none; border-bottom: none;">
+    <img src="/images/IISER_TVM_logo.jpg" alt="IISER TVM" style="height: 60px; width: auto; opacity: 0.9; transition: transform 0.2s;">
+  </a>
+</div>
+
 <div style="font-size: 1.1em; line-height: 1.6; margin-bottom: 2rem;">
   <p>
     I am <strong>Harihara Maharna</strong>, a PhD student in <strong>Applied and Computational Mathematics</strong> at the 
@@ -33,23 +42,14 @@ redirect_from:
   <span style="background-color: #e3f2fd; color: #0d47a1; padding: 5px 12px; border-radius: 15px; font-size: 0.9em; font-weight: 500;">Numerical Analysis</span>
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; background: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 2rem; flex-wrap: wrap; gap: 20px;">
-  <a href="https://www.nd.edu/" target="_blank" style="text-decoration: none; border-bottom: none;">
-    <img src="/images/ND_logo.png" alt="University of Notre Dame" style="height: 60px; width: auto; opacity: 0.9; transition: transform 0.2s;">
-  </a>
-  <div style="width: 1px; height: 50px; background: #ddd; display: block;"></div> <a href="https://www.iisertvm.ac.in/" target="_blank" style="text-decoration: none; border-bottom: none;">
-    <img src="/images/IISER_TVM_logo.jpg" alt="IISER TVM" style="height: 60px; width: auto; opacity: 0.9; transition: transform 0.2s;">
-  </a>
-</div>
 
-<div style="background-color: #fff; border-left: 4px solid #0056b3; padding: 15px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-  <h3 style="margin-top: 0; color: #333;">📢 Recent Updates</h3>
-  <ul style="margin-bottom: 0; font-size: 0.95em;">
-    <li><strong>Jan 2026:</strong> Started my Ph.D. candidacy research on Multiscale Deep Learning.</li>
-    <li><strong>Dec 2025:</strong> Updated my <a href="/more/">movie library</a> and reading list.</li>
-    <li><strong>Nov 2025:</strong> Attended the Midwest Math Conference in Chicago.</li>
-  </ul>
-</div>
+<!-- <div style="background-color: #fff; border-left: 4px solid #0056b3; padding: 15px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"> -->
+<!--   <h3 style="margin-top: 0; color: #333;">📢 Recent Updates</h3> -->
+<!--   <ul style="margin-bottom: 0; font-size: 0.95em;"> -->
+<!--     <li><strong>Jan 2026:</strong> Started my Ph.D. candidacy research on Multiscale Deep Learning.</li> -->
+<!--     <li><strong>Dec 2025:</strong> Updated my <a href="/more/">movie library</a>.</li> -->
+<!--   </ul> -->
+<!-- </div> -->
 
 <h2 style="text-align: center; margin-bottom: 1.5rem;">🔗 Quick Access</h2>
 
