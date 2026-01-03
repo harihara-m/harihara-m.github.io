@@ -28,7 +28,7 @@ redirect_from:
     <p>📫 <b>You can contact me via:</b></p>
     <ul>
       <li>📧 hmaharna[at]nd.edu</li>
-      <li>📧 hariharamaharna14[at]gmail.com</li>
+      <li>📧 hariharamaharna1644[at]gmail.com</li>
     </ul>
   </div>
 
