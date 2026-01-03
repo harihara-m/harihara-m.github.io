@@ -51,38 +51,57 @@ redirect_from:
 <!--   </ul> -->
 <!-- </div> -->
 
-<h2 style="text-align: center; margin-bottom: 1.5rem;">🔗 Quick Access</h2>
+<h2 style="text-align: center;">🔗 Quick Access</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1rem;">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="/project/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fff4e6; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #cc6600;">
 
-  <a href="/project/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fff4e6; box-shadow: 0 4px 6px rgba(0,0,0,0.08); text-decoration: none; color: #cc6600; transition: transform 0.2s;">
-    <h3 style="margin: 0 0 10px 0;">🧠 Projects</h3>
-    <p style="font-size: 0.85em; margin: 0; color: #555;">Research & Code</p>
+    <h3>🧠 Projects</h3>
+
+    <p style="font-size: 0.9em;">Discover my research, academic, and personal projects.</p>
+
   </a>
 
-  <a href="/publications/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6f4ea; box-shadow: 0 4px 6px rgba(0,0,0,0.08); text-decoration: none; color: #14532d; transition: transform 0.2s;">
-    <h3 style="margin: 0 0 10px 0;">📚 Publications</h3>
-    <p style="font-size: 0.85em; margin: 0; color: #555;">Papers & Preprints</p>
+  <a href="/publications/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6f4ea; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #14532d;">
+
+  <h3>📚 Publications</h3>
+
+  <p style="font-size: 0.9em;">Explore my peer-reviewed articles and academic output.</p>
+
   </a>
 
-  <a href="/teaching/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fffde6; box-shadow: 0 4px 6px rgba(0,0,0,0.08); text-decoration: none; color: #997a00; transition: transform 0.2s;">
-    <h3 style="margin: 0 0 10px 0;">📘 Teaching</h3>
-    <p style="font-size: 0.85em; margin: 0; color: #555;">Courses & Mentoring</p>
+  <a href="/teaching/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #fffde6; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #997a00;">
+
+    <h3>📘 Teaching</h3>
+
+    <p style="font-size: 0.9em;">Courses I have assisted or instructed.</p>
+
   </a>
 
-  <a href="/talks/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #ffebeb; box-shadow: 0 4px 6px rgba(0,0,0,0.08); text-decoration: none; color: #e63946; transition: transform 0.2s;">
-    <h3 style="margin: 0 0 10px 0;">🗣️ Talks</h3>
-    <p style="font-size: 0.85em; margin: 0; color: #555;">Slides & Videos</p>
+  <a href="/talks/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #ffebeb; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #e63946;">
+
+    <h3>🗣️ Talks</h3>
+
+    <p style="font-size: 0.9em;">Dive into the various talks I’ve delivered at conferences, workshops, and events.</p>
+
   </a>
+
+  <a href="/cv/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6f0fa; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #003366;">
+
+  <h3>📄 CV</h3>
+
+  <p style="font-size: 0.9em;">Get an overview of my academic and research experience.</p>
+
+  </a>
+
   
-  <a href="/cv/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #e6f0fa; box-shadow: 0 4px 6px rgba(0,0,0,0.08); text-decoration: none; color: #003366; transition: transform 0.2s;">
-    <h3 style="margin: 0 0 10px 0;">📄 CV</h3>
-    <p style="font-size: 0.85em; margin: 0; color: #555;">Resume & History</p>
-  </a>
-  
-  <a href="/more/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #f3e6fa; box-shadow: 0 4px 6px rgba(0,0,0,0.08); text-decoration: none; color: #663399; transition: transform 0.2s;">
-    <h3 style="margin: 0 0 10px 0;">🌍 Interests</h3>
-    <p style="font-size: 0.85em; margin: 0; color: #555;">Movies & Travel</p>
+
+  <a href="/more/" style="flex: 1 1 200px; max-width: 250px; text-align: center; padding: 20px; border-radius: 12px; background-color: #f3e6fa; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-decoration: none; color: #663399;">
+
+    <h3>🌍 Beyond Academics</h3>
+
+    <p style="font-size: 0.9em;">Learn about my interests and life outside PhD work!</p>
+
   </a>
 
 </div>
