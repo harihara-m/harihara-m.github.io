@@ -125,8 +125,50 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
   <details>
     <summary><strong>Illinois</strong></summary>
     <ul>
-      <li>Chicago</li>
+      <li>Chicago
+        <ul>
+            <li>Millennium Park (Famous for the "Bean" sculpture and beautiful green spaces)</li>
+            <li>Willis Tower (Third tallest tower in the USA, known for its glass Skydeck offering views of the city)</li>
+            <li>Navy Pier (A popular waterfront destination with rides, restaurants, and great views)</li>
+            <li>Chicago River Boat Architecture Tours</li>
+            <li>Field Museum</li>
+            <li>Adler Planetarium</li>
+            <li>Shedd Aquarium</li>
+            <li>Griffin Museum of Science and Industry</li>
+            <li>Chicago Riverwalk (A scenic area along the river with restaurants and places to relax)</li>
+        </ul>
+      </li>
       <li>Champaign</li>
+    </ul>
+  </details>
+
+<details>
+    <summary><strong>New York</strong></summary>
+    <ul>
+      <li>Statue of Liberty</li>
+      <li>One World Observatory (Situated in the tallest building in the Western Hemisphere)</li>
+      <li>Times Square</li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary><strong>New Jersey</strong></summary>
+    <ul>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
     </ul>
   </details>
 
@@ -154,6 +196,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
   <details>
     <summary><strong>Missouri</strong></summary>
     <ul>
+      <li>Gateway Arch National Park</li>
       <li>St. Louis</li>
       <li>Springfield</li>
       <li>Joplin</li>
