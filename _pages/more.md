@@ -87,11 +87,11 @@ I love watching movies from across the globe, ranging from critically acclaimed 
   </a>
 
   <a href="https://letterboxd.com/film/interstellar/" target="_blank" class="film-poster" title="Interstellar">
-    <img src="interstellar.jpeg" alt="Interstellar">
+    <img src="/images/movies/interstellar.jpeg" alt="Interstellar">
   </a>
   
   <a href="https://letterboxd.com/film/12-angry-men/" target="_blank" class="film-poster" title="12 Angry Men">
-    <img src="12_angry_man.jpg" alt="12 Angry Men">
+    <img src="/images/movies/12_angry_man.jpg" alt="12 Angry Men">
   </a>
 
    </div>
