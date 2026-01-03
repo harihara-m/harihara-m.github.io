@@ -74,24 +74,24 @@ I love watching movies from across the globe, ranging from critically acclaimed 
 </style>
 <div class="film-strip-container">
 
-  <a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster" title="The Shawshank Redemption">
-    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/2/5/1/51251-the-shawshank-redemption-0-230-0-345-crop.jpg" alt="Shawshank Redemption">
-  </a>
+<a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster">
+  <img src="/images/movies/shawshank.jpeg" alt="The Shawshank Redemption">
+</a>
 
   <a href="https://letterboxd.com/film/parasite-2019/" target="_blank" class="film-poster" title="Parasite">
     <img src="https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-230-0-345-crop.jpg" alt="Parasite">
   </a>
 
   <a href="https://letterboxd.com/film/spirited-away/" target="_blank" class="film-poster" title="Spirited Away">
-    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-spirited-away-0-230-0-345-crop.jpg" alt="Spirited Away">
+    <img src="/images/movies/sprited_away.jpeg" alt="Spirited Away">
   </a>
 
   <a href="https://letterboxd.com/film/interstellar/" target="_blank" class="film-poster" title="Interstellar">
-    <img src="https://a.ltrbxd.com/resized/film-poster/1/1/6/5/5/2/116552-interstellar-0-230-0-345-crop.jpg" alt="Interstellar">
+    <img src="interstellar.jpeg" alt="Interstellar">
   </a>
   
   <a href="https://letterboxd.com/film/12-angry-men/" target="_blank" class="film-poster" title="12 Angry Men">
-    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/2/8/6/51286-12-angry-men-0-230-0-345-crop.jpg" alt="12 Angry Men">
+    <img src="12_angry_man.jpg" alt="12 Angry Men">
   </a>
 
    </div>
