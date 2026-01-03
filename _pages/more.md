@@ -25,192 +25,286 @@ To maintain an active lifestyle and unwind, I regularly engage in various physic
 
 Traveling is another passion of mine. I enjoy exploring different cultures and landscapes. Traveling allows me to broaden my perspective and appreciate the diversity of our world. So far, my travels have taken me to:
 
-<details>
-  <summary><strong><span style="color:blue">India</span></strong></summary>
+<style>
+  .travel-section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+  }
+  .travel-intro {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  summary {
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    list-style: none; /* Hides default triangle in some browsers */
+    font-size: 1.05em;
+  }
+  summary:hover {
+    background-color: #f0f0f0;
+  }
+  /* Custom marker for details */
+  summary::marker {
+    color: #555;
+  }
+  .country-title {
+    color: #0056b3; /* A nice professional blue */
+    font-size: 1.2em;
+  }
+  .state-title {
+    font-weight: 600;
+    color: #444;
+  }
+  .city-name {
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  .note {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 0.9em;
+    color: #666;
+  }
+  ul {
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+</style>
+
+<div class="travel-section">
+  <p class="travel-intro">
+    Traveling is another passion of mine. I enjoy exploring different cultures and landscapes. Traveling allows me to broaden my perspective and appreciate the diversity of our world. So far, my travels have taken me to:
+  </p>
 
   <details>
-    <summary><strong>Odisha</strong> <span style="font-weight: normal;">(home state)</span></summary>
-    <ul>
-      <li>Baleshwar (home town)</li>
-      <li>Chandipur Sea Beach</li>
-      <li>Emami Jagannath Temple</li>
-      <li>Panchalingeswar Temple</li>
-      <li>Bhubaneswar</li>
-      <li>Nandankanan Zoological Park</li>
-      <li>Udayagiri and Khandagiri Caves</li>
-      <li>Dhauli Shanti Stupa</li>
-      <li>Regional Museum of Natural History</li>
-      <li>Odisha State Museum</li>
-      <li>Lingaraj Temple</li>
-      <li>Mukteshwar Mahadev Temple</li>
-      <li>Rajarani Temple</li>
-      <li>Kedaragauri Temple</li>
-      <li>Puri</li>
-      <li>Shree Jagannatha Temple Puri</li>
-      <li>Shree Gundicha Temple</li>
-      <li>Sun Temple, Konarak</li>
-      <li>Baripada</li>
-      <li>Similipal National Park</li>      
-      <li>Bāliḍihā Dam</li>
-      <li>Cuttack</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Kerala</strong></summary>
-    <ul>
-      <li>Thiruvananthapuram</li>
-      <li>Sree Padmanabhaswamy Temple</li>
-      <li>Alleppey</li>
-      <li>Munnar</li>
-      <li>Ponmudi Hill Station</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Karnataka</strong></summary>
-    <ul>
-      <li>Bengaluru</li>
-      <li>Davanagere</li>
-      <li>Hampi</li>
-      <li>Chitradurga Fort</li>
-      <li>Jigani</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>West Bengal</strong></summary>
-    <ul>
-      <li>Kolkata</li>
-      <li>Kharagpur</li>
-      <li>Digha</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Delhi</strong></summary>
-    <ul>
-      <li>New Delhi</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Tamil Nadu</strong></summary>
-    <ul>
-      <li>Rameswaram</li>
-      <li>Madurai</li>
-      <li>Kanniyakumari</li>
-    </ul>
-  </details>
-
-</details>
-
-<details>
-  <summary><strong><span style="color:blue">United States</span></strong></summary>
-
-  <details>
-    <summary><strong>Indiana</strong> <span style="font-weight: normal;">(current state)</span></summary>
-    <ul>
-      <li>South Bend (current town)</li>
-      <li>Indianapolis</li>
-      <li>Indiana Dunes State Park</li>
-      <li>Michigan City</li>
-      <li>Potato Creek State Park</li>
-      <li>Potawatomi Zoo</li>
-      <li>Heatherwood Equestrian Academy</li>
-      <!-- Add more cities here -->
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Illinois</strong></summary>
-    <ul>
-      <li>Chicago
+    <summary><strong class="country-title">🇮🇳 India</strong></summary>
+    
+    <div style="padding-left: 20px;">
+      <details>
+        <summary><span class="state-title">Odisha</span> <span class="note">(Home State)</span></summary>
         <ul>
-            <li>Millennium Park (Famous for the "Bean" sculpture and beautiful green spaces)</li>
-            <li>Willis Tower (Third tallest tower in the USA, known for its glass Skydeck offering views of the city)</li>
-            <li>Navy Pier (A popular waterfront destination with rides, restaurants, and great views)</li>
-            <li>Chicago River Boat Architecture Tours</li>
-            <li>Field Museum</li>
-            <li>Adler Planetarium</li>
-            <li>Shedd Aquarium</li>
-            <li>Griffin Museum of Science and Industry</li>
-            <li>Chicago Riverwalk (A scenic area along the river with restaurants and places to relax)</li>
+          <li><span class="city-name">Baleshwar</span> <span class="note">(Hometown)</span>
+            <ul>
+              <li>Chandipur Beach (famous for its receding sea)</li>
+              <li>Emami Jagannath Temple</li>
+              <li>Panchalingeswar Temple</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Bhubaneswar</span> (The Temple City)
+            <ul>
+              <li>Nandankanan Zoological Park</li>
+              <li>Udayagiri and Khandagiri Caves</li>
+              <li>Dhauli Shanti Stupa (Peace Pagoda)</li>
+              <li>Regional Museum of Natural History & Odisha State Museum</li>
+              <li>Lingaraj Temple</li>
+              <li>Mukteshwar Mahadev Temple</li>
+              <li>Rajarani Temple</li>
+              <li>Kedaragauri Temple</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Puri</span>
+            <ul>
+              <li>Shree Jagannatha Temple</li>
+              <li>Shree Gundicha Temple</li>
+              <li>Golden Beach</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Konark</span>
+            <ul>
+              <li>Konark Sun Temple (UNESCO World Heritage Site)</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Baripada & Mayurbhanj</span>
+            <ul>
+              <li>Similipal National Park (Tiger Reserve)</li>
+              <li>Bālidiha Dam</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Cuttack</span> (The Silver City)</li>
         </ul>
-      </li>
-      <li>Champaign</li>
-    </ul>
-  </details>
+      </details>
 
-<details>
-    <summary><strong>New York</strong></summary>
-    <ul>
-      <li>Statue of Liberty</li>
-      <li>One World Observatory (Situated in the tallest building in the Western Hemisphere)</li>
-      <li>Times Square</li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul>
+      <details>
+        <summary><span class="state-title">Kerala</span></summary>
+        <ul>
+          <li><span class="city-name">Thiruvananthapuram</span>
+            <ul>
+              <li>Sree Padmanabhaswamy Temple (richest temple in the world)</li>
+              <li>Ponmudi Hill Station</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Alleppey</span> (known for houseboats and backwaters)</li>
+          <li><span class="city-name">Munnar</span> (famous for tea gardens)</li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Karnataka</span></summary>
+        <ul>
+          <li><span class="city-name">Bengaluru</span> (The Silicon Valley of India)
+            <ul>
+               <li>Jigani</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Hampi</span> (UNESCO World Heritage site with ancient ruins)</li>
+          <li><span class="city-name">Chitradurga</span>
+            <ul>
+              <li>Chitradurga Fort</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Davanagere</span></li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">West Bengal</span></summary>
+        <ul>
+          <li><span class="city-name">Kolkata</span> (City of Joy)</li>
+          <li><span class="city-name">Kharagpur</span></li>
+          <li><span class="city-name">Digha</span> (seaside resort town)</li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Delhi</span></summary>
+        <ul>
+          <li><span class="city-name">New Delhi</span> (Capital of India)</li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Tamil Nadu</span></summary>
+        <ul>
+          <li><span class="city-name">Rameswaram</span> (pilgrimage center on Pamban Island)</li>
+          <li><span class="city-name">Madurai</span> (famous for Meenakshi Amman Temple)</li>
+          <li><span class="city-name">Kanniyakumari</span> (southernmost tip of mainland India)</li>
+        </ul>
+      </details>
+    </div>
   </details>
 
   <details>
-    <summary><strong>New Jersey</strong></summary>
-    <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul>
+    <summary><strong class="country-title">🇺🇸 United States</strong></summary>
+    
+    <div style="padding-left: 20px;">
+      <details>
+        <summary><span class="state-title">Indiana</span> <span class="note">(Current State)</span></summary>
+        <ul>
+          <li><span class="city-name">South Bend</span> <span class="note">(Current Town)</span>
+             <ul>
+               <li>Potawatomi Zoo</li>
+               <li>Potato Creek State Park</li>
+               <li>Heatherwood Equestrian Academy</li>
+             </ul>
+          </li>
+          <li><span class="city-name">Indianapolis</span> (State Capital)</li>
+          <li><span class="city-name">Michigan City & Chesterton</span>
+            <ul>
+              <li>Indiana Dunes State Park (sand dunes along Lake Michigan)</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Illinois</span></summary>
+        <ul>
+          <li><span class="city-name">Chicago</span>
+            <ul>
+              <li>Millennium Park (famous for "The Bean" sculpture)</li>
+              <li>Willis Tower (glass Skydeck offering city views)</li>
+              <li>Navy Pier (waterfront destination with rides)</li>
+              <li>Chicago River Architecture Tour</li>
+              <li>Field Museum</li>
+              <li>Adler Planetarium</li>
+              <li>Shedd Aquarium</li>
+              <li>Griffin Museum of Science and Industry</li>
+              <li>Chicago Riverwalk</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Champaign</span></li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">New York</span></summary>
+        <ul>
+          <li><span class="city-name">New York City</span>
+            <ul>
+              <li>Statue of Liberty (iconic symbol of freedom)</li>
+              <li>One World Observatory (tallest building in the Western Hemisphere)</li>
+              <li>Times Square (famous commercial intersection)</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Niagara Falls</span> (world-famous waterfalls)</li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">New Jersey</span></summary>
+        <ul>
+          <li><span class="city-name">Jersey City</span>
+             <ul>
+               <li>Liberty State Park</li>
+               <li>Ellis Island National Museum of Immigration</li>
+             </ul>
+          </li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Missouri</span></summary>
+        <ul>
+          <li><span class="city-name">St. Louis</span>
+             <ul>
+               <li>Gateway Arch National Park (tallest arch in the world)</li>
+             </ul>
+          </li>
+          <li><span class="city-name">Springfield</span></li>
+          <li><span class="city-name">Joplin</span></li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Michigan</span></summary>
+        <ul>
+          <li><span class="city-name">Niles/Buchanan</span>
+            <ul>
+               <li>Fernwood Botanical Garden</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Ohio</span></summary>
+        <ul>
+          <li><span class="city-name">Columbus</span></li>
+        </ul>
+      </details>
+
+      <details>
+        <summary><span class="state-title">Wisconsin</span></summary>
+        <ul>
+          <li><span class="city-name">Madison</span></li>
+        </ul>
+      </details>
+      
+      <details>
+        <summary><span class="state-title">Oklahoma</span></summary>
+        <ul>
+          <li><span class="city-name">Oklahoma City</span></li>
+          <li><span class="city-name">Norman</span></li>
+        </ul>
+      </details>
+    </div>
   </details>
 
-  <details>
-    <summary><strong>Michigan</strong></summary>
-    <ul>
-      <li>Fernwood Botanical Garden</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Ohio</strong></summary>
-    <ul>
-      <li>Columbus</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Wisconsin</strong></summary>
-    <ul>
-      <li>Madison</li>
-    </ul>
-  </details>
-
-  <details>
-    <summary><strong>Missouri</strong></summary>
-    <ul>
-      <li>Gateway Arch National Park</li>
-      <li>St. Louis</li>
-      <li>Springfield</li>
-      <li>Joplin</li>
-    </ul>
-  </details>
-  
-  <details>
-    <summary><strong>Oklahoma</strong></summary>
-    <ul>
-      <li>Oklahoma City</li>
-      <li>Norman</li>
-    </ul>
-  </details>
-</details>I am always looking to expand this list and discover more of the world in my free time!
+  <p>I am always looking to expand this list and discover more of the world in my free time!</p>
+</div>
 
 ## Connect:
 
