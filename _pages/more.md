@@ -78,31 +78,31 @@ I love watching movies from across the globe, ranging from critically acclaimed 
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-2000-0-3000-crop.jpg?v=b8aaf291a9" alt="12 Angry Men">
 </a>
 
-<a href="https://letterboxd.com/film/dune-part-two/" target="_blank" class="film-poster" title="12 Angry Men">
+<a href="https://letterboxd.com/film/dune-part-two/" target="_blank" class="film-poster" title="Dune: Part Two">
   <img src="https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-2000-0-3000-crop.jpg?v=cc533700f8" alt="Dune: Part Two">
 </a>
 
-<a href="https://letterboxd.com/film/pather-panchali/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/pather-panchali/" target="_blank" class="film-poster" title="Pather Panchali">
   <img src="https://a.ltrbxd.com/resized/film-poster/4/8/6/4/9/48649-pather-panchali-0-2000-0-3000-crop.jpg?v=55ae5de64b" alt="Pather Panchali">
 </a>
 
-<a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster" title="The Matrix">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-2000-0-3000-crop.jpg?v=fc7c366afe" alt="The Matrix">
 </a>
 
-<a href="https://letterboxd.com/film/the-truman-show/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/the-truman-show/" target="_blank" class="film-poster" title="The Truman Show">
   <img src="https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-2000-0-3000-crop.jpg?v=704ba393f7" alt="The Truman Show">
 </a>
-<a href="https://letterboxd.com/film/fight-club/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/fight-club/" target="_blank" class="film-poster" title="Fight Club">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-2000-0-3000-crop.jpg?v=768b32dfa4" alt="Fight Club">
 </a>
-<a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster" title="Little Miss Sunshine">
   <img src="https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-2000-0-3000-crop.jpg?v=09383296c6" alt="Little Miss Sunshine">
 </a>
-<a href="https://letterboxd.com/film/mad-max-fury-road/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/mad-max-fury-road/" target="_blank" class="film-poster" title="Mad Max: Fury Road">
   <img src="https://a.ltrbxd.com/resized/film-poster/6/2/7/8/0/62780-mad-max-fury-road-0-2000-0-3000-crop.jpg?v=37c5424b1f" alt="Mad Max: Fury Road">
 </a>
-<a href="https://letterboxd.com/film/pulp-fiction/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/pulp-fiction/" target="_blank" class="film-poster" title="Pulp Fiction">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-2000-0-3000-crop.jpg?v=dee19a8077" alt="Pulp Fiction">
 </a>
 <a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster">
@@ -137,57 +137,50 @@ To maintain an active lifestyle and unwind, I regularly engage in various physic
 Traveling is another passion of mine. I enjoy exploring different cultures and landscapes. Traveling allows me to broaden my perspective and appreciate the diversity of our world. So far, my travels have taken me to:
 
 <style>
-  .travel-section {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    max-width: 800px;
-  }
-  .travel-intro {
-    font-size: 1.1em;
-    margin-bottom: 20px;
-    color: #333;
-  }
+  /* 1. Remove default browser markers to start fresh */
   summary {
+    list-style: none; 
     cursor: pointer;
-    padding: 10px;
+    position: relative;
+    padding: 10px 10px 10px 25px; /* Left padding makes room for the arrow */
     border-radius: 5px;
-    list-style: none;
     font-size: 1.05em;
+    transition: background 0.2s;
   }
-  summary:hover {
-    background-color: #f0f0f0;
+  summary::-webkit-details-marker {
+    display: none; /* Hides default marker in Chrome/Safari */
   }
-  /* Custom marker */
-  summary::marker {
-    color: #555;
-  }
-  .country-title {
-    color: #0056b3; /* Professional Blue */
-    font-size: 1.2em;
-  }
-  .state-title {
-    font-weight: 600;
-    color: #444;
-  }
-  .city-name {
-    font-weight: bold;
-    color: #2c3e50;
-  }
-  .note {
-    font-weight: normal;
-    font-style: italic;
-    font-size: 0.9em;
+
+  /* 2. Create the Custom Arrow (Closed State) */
+  summary::before {
+    content: '▶'; /* The triangle symbol */
+    position: absolute;
+    left: 5px;   /* Position it inside the padding area */
+    top: 50%;
+    transform: translateY(-50%); /* Center it vertically */
+    font-size: 0.8em;
     color: #666;
+    transition: transform 0.2s ease; /* Smooth rotation animation */
   }
-  /* New style for Universities */
-  .uni-item {
-    color: #6a0dad; /* Deep Purple to stand out */
-    font-weight: 500;
+
+  /* 3. Rotate the Arrow (Open State) */
+  details[open] > summary::before {
+    transform: translateY(-50%) rotate(90deg); /* Rotate 90 degrees down */
+    color: #0056b3; /* Optional: Turn blue when open */
   }
-  ul {
-    margin-top: 5px;
-    margin-bottom: 15px;
+
+  /* Hover effect for the whole row */
+  summary:hover {
+    background-color: #f5f5f5;
   }
+
+  /* General Text Styles */
+  .country-title { color: #0056b3; font-size: 1.2em; }
+  .state-title { font-weight: 600; color: #444; }
+  .city-name { font-weight: bold; color: #2c3e50; }
+  .note { font-weight: normal; font-style: italic; font-size: 0.9em; color: #666; }
+  .uni-item { color: #6a0dad; font-weight: 500; } /* Purple for Universities */
+  ul { margin-top: 5px; margin-bottom: 15px; }
 </style>
 
 <div class="travel-section">
@@ -300,6 +293,7 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
         <summary><span class="state-title">Tamil Nadu</span></summary>
         <ul>
           <li><span class="city-name">Rameswaram</span> (pilgrimage center on Pamban Island)</li>
+          <li><span class="city-name">Dhanushkodi</span> </li>
           <li><span class="city-name">Madurai</span> (famous for Meenakshi Amman Temple)</li>
           <li><span class="city-name">Kanniyakumari</span> (southernmost tip of mainland India)</li>
         </ul>
