@@ -15,7 +15,137 @@ I enjoy engaging in activities that offer a refreshing break from my academic wo
 
 ## Exploring Diverse Cinematic Works:
 
-I love watching movies from across the globe, ranging from critically acclaimed international films to hidden regional gems. This passion has helped me understand diverse cultures and perspectives, constantly expanding my worldview. I am always open to movie recommendations, so if you have any favorites (especially regional or lesser-known titles), please feel free to share them! [I am continuously building a list of the movies I have watched which can be found here](https://letterboxd.com/hmaharna/films/by/rating/).
+I love watching movies from across the globe, ranging from critically acclaimed international films to hidden regional gems. This passion has helped me understand diverse cultures and perspectives, constantly expanding my worldview. I am always open to movie recommendations, so if you have any favorites (especially regional or lesser-known titles), please feel free to share them!
+
+<style>
+  /* Container for the movie grid */
+  .letterboxd-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    justify-content: flex-start;
+  }
+
+  /* Individual movie card */
+  .movie-card {
+    position: relative;
+    width: 130px; /* Adjust width as needed */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+
+  /* Hover effect */
+  .movie-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.2);
+    z-index: 2;
+  }
+
+  /* The movie poster image */
+  .movie-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
+
+  /* Optional: Star rating overlay if available in description */
+  .movie-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+    color: white;
+    padding: 10px 5px 5px;
+    font-size: 0.8rem;
+    opacity: 0;
+    transition: opacity 0.3s;
+    text-align: center;
+  }
+  
+  .movie-card:hover .movie-overlay {
+    opacity: 1;
+  }
+  
+  /* Loading text style */
+  #lb-loading {
+    font-style: italic;
+    color: #666;
+  }
+</style>
+
+<div id="letterboxd-wrapper">
+  <h3>Recent Watches</h3>
+  <div id="lb-loading">Loading recent movies...</div>
+  <div class="letterboxd-container" id="letterboxd-grid"></div>
+  <p>
+    <a href="https://letterboxd.com/hmaharna/films/by/rating/" target="_blank" class="btn btn--info">View Full Library on Letterboxd &rarr;</a>
+  </p>
+</div>
+
+<script>
+  // YOUR LETTERBOXD USERNAME
+  const username = "hmaharna"; 
+  
+  // We use rss2json to convert the XML feed to JSON so browser JS can read it
+  const feedUrl = `https://api.rss2json.com/v1/api.json?rss_url=https://letterboxd.com/${username}/rss/`;
+
+  fetch(feedUrl)
+    .then(response => response.json())
+    .then(data => {
+      const container = document.getElementById('letterboxd-grid');
+      const loading = document.getElementById('lb-loading');
+      
+      // Hide loading text
+      loading.style.display = 'none';
+
+      // We only want the first 5 or 6 items to keep the page clean
+      const items = data.items.slice(0, 6); 
+
+      items.forEach(item => {
+        // Create Link Wrapper
+        const link = document.createElement('a');
+        link.href = item.link;
+        link.target = "_blank";
+        link.className = "movie-card";
+        link.title = item.title; // Shows title on hover
+
+        // Extract Image URL from the HTML description content
+        // Letterboxd puts the poster in the description tag
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = item.description;
+        const img = tempDiv.querySelector('img');
+
+        if (img) {
+          // Clean up the image styling
+          img.removeAttribute('width');
+          img.removeAttribute('height');
+          
+          link.appendChild(img);
+          
+          // Optional: Add an overlay div for the title
+          const overlay = document.createElement('div');
+          overlay.className = "movie-overlay";
+          // Simplify title (remove year/stars for cleaner look)
+          overlay.innerText = "View on Letterboxd"; 
+          link.appendChild(overlay);
+
+          container.appendChild(link);
+        }
+      });
+    })
+    .catch(error => {
+      console.error('Error fetching Letterboxd feed:', error);
+      document.getElementById('lb-loading').innerText = "Unable to load movies right now.";
+    });
+</script>
+
+[I am continuously building a list of the movies I have watched which can be found here](https://letterboxd.com/hmaharna/films/by/rating/).
 
 ## Fitness and Recreation:
 
