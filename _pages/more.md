@@ -40,18 +40,18 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     cursor: pointer;
     padding: 10px;
     border-radius: 5px;
-    list-style: none; /* Hides default triangle in some browsers */
+    list-style: none;
     font-size: 1.05em;
   }
   summary:hover {
     background-color: #f0f0f0;
   }
-  /* Custom marker for details */
+  /* Custom marker */
   summary::marker {
     color: #555;
   }
   .country-title {
-    color: #0056b3; /* A nice professional blue */
+    color: #0056b3; /* Professional Blue */
     font-size: 1.2em;
   }
   .state-title {
@@ -68,6 +68,11 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
     font-size: 0.9em;
     color: #666;
   }
+  /* New style for Universities */
+  .uni-item {
+    color: #6a0dad; /* Deep Purple to stand out */
+    font-weight: 500;
+  }
   ul {
     margin-top: 5px;
     margin-bottom: 15px;
@@ -81,7 +86,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
 
   <details>
     <summary><strong class="country-title">🇮🇳 India</strong></summary>
-    
     <div style="padding-left: 20px;">
       <details>
         <summary><span class="state-title">Odisha</span> <span class="note">(Home State)</span></summary>
@@ -95,6 +99,8 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           </li>
           <li><span class="city-name">Bhubaneswar</span> (The Temple City)
             <ul>
+              <li class="uni-item">🎓 National Institute of Science Education and Research (NISER)</li>
+              <li class="uni-item">🎓 Utkal University</li>
               <li>Nandankanan Zoological Park</li>
               <li>Udayagiri and Khandagiri Caves</li>
               <li>Dhauli Shanti Stupa (Peace Pagoda)</li>
@@ -119,19 +125,26 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           </li>
           <li><span class="city-name">Baripada & Mayurbhanj</span>
             <ul>
+              <li class="uni-item">🎓 Maharaja Sriram Chandra Bhanja Deo University (MSCBDU)</li>
+              <li class="uni-item">🎓 MPC Autonomous College</li>
               <li>Similipal National Park (Tiger Reserve)</li>
               <li>Bālidiha Dam</li>
             </ul>
           </li>
-          <li><span class="city-name">Cuttack</span> (The Silver City)</li>
+          <li><span class="city-name">Cuttack</span> (The Silver City)
+            <ul>
+               <li class="uni-item">🎓 Ravenshaw University</li>
+            </ul>
+          </li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Kerala</span></summary>
         <ul>
           <li><span class="city-name">Thiruvananthapuram</span>
             <ul>
+              <li class="uni-item">🎓 IISER Thiruvananthapuram (IISER TVM)</li>
+              <li class="uni-item">🎓 Indian Institute of Space Science and Technology (IIST)</li>
               <li>Sree Padmanabhaswamy Temple (richest temple in the world)</li>
               <li>Ponmudi Hill Station</li>
             </ul>
@@ -140,7 +153,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           <li><span class="city-name">Munnar</span> (famous for tea gardens)</li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Karnataka</span></summary>
         <ul>
@@ -158,7 +170,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           <li><span class="city-name">Davanagere</span></li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">West Bengal</span></summary>
         <ul>
@@ -167,14 +178,13 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           <li><span class="city-name">Digha</span> (seaside resort town)</li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Delhi</span></summary>
         <ul>
+          <li class="uni-item">🎓 Jawaharlal Nehru University</li>
           <li><span class="city-name">New Delhi</span> (Capital of India)</li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Tamil Nadu</span></summary>
         <ul>
@@ -188,17 +198,22 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
 
   <details>
     <summary><strong class="country-title">🇺🇸 United States</strong></summary>
-    
     <div style="padding-left: 20px;">
       <details>
         <summary><span class="state-title">Indiana</span> <span class="note">(Current State)</span></summary>
         <ul>
           <li><span class="city-name">South Bend</span> <span class="note">(Current Town)</span>
              <ul>
+               <li class="uni-item">🎓 University of Notre Dame</li>
                <li>Potawatomi Zoo</li>
                <li>Potato Creek State Park</li>
                <li>Heatherwood Equestrian Academy</li>
              </ul>
+          </li>
+          <li><span class="city-name">West Lafayette</span>
+            <ul>
+               <li class="uni-item">🎓 Purdue University</li>
+            </ul>
           </li>
           <li><span class="city-name">Indianapolis</span> (State Capital)</li>
           <li><span class="city-name">Michigan City & Chesterton</span>
@@ -208,7 +223,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           </li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Illinois</span></summary>
         <ul>
@@ -228,7 +242,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           <li><span class="city-name">Champaign</span></li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">New York</span></summary>
         <ul>
@@ -242,7 +255,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           <li><span class="city-name">Niagara Falls</span> (world-famous waterfalls)</li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">New Jersey</span></summary>
         <ul>
@@ -254,7 +266,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           </li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Missouri</span></summary>
         <ul>
@@ -267,7 +278,6 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           <li><span class="city-name">Joplin</span></li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Michigan</span></summary>
         <ul>
@@ -278,31 +288,35 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
           </li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Ohio</span></summary>
         <ul>
           <li><span class="city-name">Columbus</span></li>
         </ul>
       </details>
-
       <details>
         <summary><span class="state-title">Wisconsin</span></summary>
         <ul>
-          <li><span class="city-name">Madison</span></li>
+          <li><span class="city-name">Madison</span>
+             <ul>
+                <li class="uni-item">🎓 University of Wisconsin-Madison</li>
+             </ul>
+          </li>
         </ul>
       </details>
-      
       <details>
         <summary><span class="state-title">Oklahoma</span></summary>
         <ul>
           <li><span class="city-name">Oklahoma City</span></li>
-          <li><span class="city-name">Norman</span></li>
+          <li><span class="city-name">Norman</span>
+             <ul>
+               <li class="uni-item">🎓 University of Oklahoma</li>
+             </ul>
+          </li>
         </ul>
       </details>
     </div>
   </details>
-
   <p>I am always looking to expand this list and discover more of the world in my free time!</p>
 </div>
 
