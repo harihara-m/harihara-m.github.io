@@ -74,6 +74,37 @@ I love watching movies from across the globe, ranging from critically acclaimed 
 </style>
 <div class="film-strip-container">
 
+<a href="https://letterboxd.com/film/12-angry-men/" target="_blank" class="film-poster" title="12 Angry Men">
+  <img src="https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-2000-0-3000-crop.jpg?v=b8aaf291a9" alt="12 Angry Men">
+</a>
+
+<a href="https://letterboxd.com/film/dune-part-two/" target="_blank" class="film-poster" title="12 Angry Men">
+  <img src="https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-2000-0-3000-crop.jpg?v=cc533700f8" alt="Dune: Part Two">
+</a>
+
+<a href="https://letterboxd.com/film/pather-panchali/" target="_blank" class="film-poster">
+  <img src="https://a.ltrbxd.com/resized/film-poster/4/8/6/4/9/48649-pather-panchali-0-2000-0-3000-crop.jpg?v=55ae5de64b" alt="Pather Panchali">
+</a>
+
+<a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster">
+  <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-2000-0-3000-crop.jpg?v=fc7c366afe" alt="The Matrix">
+</a>
+
+<a href="https://letterboxd.com/film/the-truman-show/" target="_blank" class="film-poster">
+  <img src="https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-2000-0-3000-crop.jpg?v=704ba393f7" alt="The Truman Show">
+</a>
+<a href="https://letterboxd.com/film/fight-club/" target="_blank" class="film-poster">
+  <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-2000-0-3000-crop.jpg?v=768b32dfa4" alt="Fight Club">
+</a>
+<a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster">
+  <img src="https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-2000-0-3000-crop.jpg?v=09383296c6" alt="Little Miss Sunshine">
+</a>
+<a href="https://letterboxd.com/film/mad-max-fury-road/" target="_blank" class="film-poster">
+  <img src="https://a.ltrbxd.com/resized/film-poster/6/2/7/8/0/62780-mad-max-fury-road-0-2000-0-3000-crop.jpg?v=37c5424b1f" alt="Mad Max: Fury Road">
+</a>
+<a href="https://letterboxd.com/film/pulp-fiction/" target="_blank" class="film-poster">
+  <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-2000-0-3000-crop.jpg?v=dee19a8077" alt="Pulp Fiction">
+</a>
 <a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster">
   <img src="https://a.ltrbxd.com/resized/sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-2000-0-3000-crop.jpg?v=8736d1c395" alt="The Shawshank Redemption">
 </a>
@@ -90,16 +121,12 @@ I love watching movies from across the globe, ranging from critically acclaimed 
     <img src="https://a.ltrbxd.com/resized/film-poster/1/1/7/6/2/1/117621-interstellar-0-2000-0-3000-crop.jpg?v=7ad89e6666" alt="Interstellar">
   </a>
   
-  <a href="https://letterboxd.com/film/12-angry-men/" target="_blank" class="film-poster" title="12 Angry Men">
-    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-2000-0-3000-crop.jpg?v=b8aaf291a9" alt="12 Angry Men">
-  </a>
 
    </div>
 <div class="lb-button-wrapper">
   <a href="https://letterboxd.com/hmaharna/films/by/rating/" target="_blank" class="btn btn--info">View Full Library on Letterboxd &rarr;</a>
 </div>
 
-[I am continuously building a list of the movies I have watched which can be found here](https://letterboxd.com/hmaharna/films/by/rating/).
 
 ## Fitness and Recreation:
 
