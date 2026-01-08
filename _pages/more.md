@@ -111,7 +111,7 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/pulp-fiction/" target="_blank" class="film-poster" title="Pulp Fiction">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-2000-0-3000-crop.jpg?v=dee19a8077" alt="Pulp Fiction">
 </a>
-<a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster", title="The Shawshank Redemption">
+<a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster" title="The Shawshank Redemption">
   <img src="https://a.ltrbxd.com/resized/sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-2000-0-3000-crop.jpg?v=8736d1c395" alt="The Shawshank Redemption">
 </a>
 <a href="https://letterboxd.com/film/super-deluxe/" target="_blank" class="" title="Super Deluxe">
