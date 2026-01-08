@@ -102,6 +102,9 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster" title="Little Miss Sunshine">
   <img src="https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-2000-0-3000-crop.jpg?v=09383296c6" alt="Little Miss Sunshine">
 </a>
+<a href="https://letterboxd.com/film/andhadhun/" target="_blank" class="" title="Andhadhun">
+<img src="https://a.ltrbxd.com/resized/film-poster/4/6/4/0/6/5/464065-andhadhun-0-2000-0-3000-crop.jpg?v=c628f30019" alt="Andhadhun">
+</a>
 <a href="https://letterboxd.com/film/mad-max-fury-road/" target="_blank" class="film-poster" title="Mad Max: Fury Road">
   <img src="https://a.ltrbxd.com/resized/film-poster/6/2/7/8/0/62780-mad-max-fury-road-0-2000-0-3000-crop.jpg?v=37c5424b1f" alt="Mad Max: Fury Road">
 </a>
@@ -145,14 +148,11 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
   <a href="https://letterboxd.com/film/jai-bhim/" target="_blank" class="" title="Jai Bhim">
     <img src="https://a.ltrbxd.com/resized/film-poster/7/7/0/0/0/3/770003-jai-bhim-0-2000-0-3000-crop.jpg?v=d16e422670" alt="Jai Bhim">
   </a>
-  <a href="" target="_blank" class="" title="">
-    <img src="" alt="">
+  <a href="https://letterboxd.com/film/before-sunrise/" target="_blank" class="" title="Before Sunrise">
+    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-2000-0-3000-crop.jpg?v=006e8fedea" alt="Before Sunrise">
   </a>
-  <a href="" target="_blank" class="" title="">
-    <img src="" alt="">
-  </a>
-  <a href="" target="_blank" class="" title="">
-    <img src="" alt="">
+  <a href="https://letterboxd.com/film/the-sixth-sense/" target="_blank" class="" title="The Sixth Sense">
+    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/0/7/51407-the-sixth-sense-0-2000-0-3000-crop.jpg?v=ab482dfeb6" alt="The Sixth Sense">
   </a>
 </div>
 <div class="lb-button-wrapper">
