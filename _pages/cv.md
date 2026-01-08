@@ -8,8 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find the PDF version of my CV [here](http://harihara-m.github.io/files/CV.pdf) and my resume [here](http://harihara-m.github.io/files/Resume.pdf).
-
+<span style="color:#2F4F4F">
+You can find the PDF version of my CV 
+<a href="http://harihara-m.github.io/files/CV.pdf" target="_blank" rel="noopener noreferrer">here</a> 
+and my resume 
+<a href="http://harihara-m.github.io/files/Resume.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+</span>
 <!-- # Summary -->
 <!---->
 <!-- I am a first-year PhD student in Applied and Computational Mathematics in the Applied Computational Mathematics and Statistics (ACMS) Department of the University of Notre Dame, IN, US. I am enthusiastic about learning numerical methods for solving differential equations. -->
