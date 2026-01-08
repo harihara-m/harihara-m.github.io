@@ -72,8 +72,7 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
     margin-top: 20px;
     text-align: center; /* Centers the button */
   }
-</style>
-<div class="film-strip-container">
+</style><div class="film-strip-container">
 
 <a href="https://letterboxd.com/film/12-angry-men/" target="_blank" class="film-poster" title="12 Angry Men">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-2000-0-3000-crop.jpg?v=b8aaf291a9" alt="12 Angry Men">
@@ -90,7 +89,7 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/the-truman-show/" target="_blank" class="film-poster" title="The Truman Show">
   <img src="https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-2000-0-3000-crop.jpg?v=704ba393f7" alt="The Truman Show">
 </a>
-<a href="https://letterboxd.com/film/seven-samurai/" target="_blank" class="" title="Seven Samurai">
+<a href="https://letterboxd.com/film/seven-samurai/" target="_blank" class="film-poster" title="Seven Samurai">
 <img src="https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-2000-0-3000-crop.jpg?v=973d70bb0c" alt="Seven Samurai">
 </a>
 <a href="https://letterboxd.com/film/fight-club/" target="_blank" class="film-poster" title="Fight Club">
@@ -102,7 +101,7 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster" title="Little Miss Sunshine">
   <img src="https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-2000-0-3000-crop.jpg?v=09383296c6" alt="Little Miss Sunshine">
 </a>
-<a href="https://letterboxd.com/film/andhadhun/" target="_blank" class="" title="Andhadhun">
+<a href="https://letterboxd.com/film/andhadhun/" target="_blank" class="film-poster" title="Andhadhun">
 <img src="https://a.ltrbxd.com/resized/film-poster/4/6/4/0/6/5/464065-andhadhun-0-2000-0-3000-crop.jpg?v=c628f30019" alt="Andhadhun">
 </a>
 <a href="https://letterboxd.com/film/mad-max-fury-road/" target="_blank" class="film-poster" title="Mad Max: Fury Road">
@@ -114,7 +113,7 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster" title="The Shawshank Redemption">
   <img src="https://a.ltrbxd.com/resized/sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-2000-0-3000-crop.jpg?v=8736d1c395" alt="The Shawshank Redemption">
 </a>
-<a href="https://letterboxd.com/film/super-deluxe/" target="_blank" class="" title="Super Deluxe">
+<a href="https://letterboxd.com/film/super-deluxe/" target="_blank" class="film-poster" title="Super Deluxe">
 <img src="https://a.ltrbxd.com/resized/film-poster/3/6/5/1/3/0/365130-super-deluxe-0-2000-0-3000-crop.jpg?v=1d1cfec8e6" alt="Super Deluxe">
 </a>
   <a href="https://letterboxd.com/film/spirited-away/" target="_blank" class="film-poster" title="Spirited Away">
@@ -124,13 +123,13 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
   <a href="https://letterboxd.com/film/interstellar/" target="_blank" class="film-poster" title="Interstellar">
     <img src="https://a.ltrbxd.com/resized/film-poster/1/1/7/6/2/1/117621-interstellar-0-2000-0-3000-crop.jpg?v=7ad89e6666" alt="Interstellar">
   </a>
-  <a href="https://letterboxd.com/film/daman/" target="_blank" class="" title="DAMaN">
+  <a href="https://letterboxd.com/film/daman/" target="_blank" class="film-poster" title="DAMaN">
     <img src="https://a.ltrbxd.com/resized/film-poster/9/2/3/1/9/0/923190-daman-0-2000-0-3000-crop.jpg?v=b952730f8b" alt="DAMaN">
   </a>
-  <a href="https://letterboxd.com/film/spider-man-across-the-spider-verse/" target="_blank" class="" title="Spider-Man: Across the Spider-Verse">
+  <a href="https://letterboxd.com/film/spider-man-across-the-spider-verse/" target="_blank" class="film-poster" title="Spider-Man: Across the Spider-Verse">
     <img src="https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-2000-0-3000-crop.jpg?v=f2acbf1b8a" alt="Spider-Man: Across the Spider-Verse">
   </a>
-  <a href="https://letterboxd.com/film/my-neighbor-totoro/" target="_blank" class="" title="My Neighbor Totoro">
+  <a href="https://letterboxd.com/film/my-neighbor-totoro/" target="_blank" class="film-poster" title="My Neighbor Totoro">
     <img src="https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-2000-0-3000-crop.jpg?v=749abe71ad" alt="My Neighbor Totoro">
   </a>
   <a href="https://letterboxd.com/film/3-idiots/" target="_blank" class="" title="3 Idiots">
