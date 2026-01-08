@@ -16,6 +16,7 @@ I enjoy engaging in activities that offer a refreshing break from my academic wo
 ## Exploring Diverse Cinematic Works:
 
 I love watching movies from across the globe, ranging from critically acclaimed international films to hidden regional gems. This passion has helped me understand diverse cultures and perspectives, constantly expanding my worldview. I am always open to movie recommendations, so if you have any favorites (especially regional or lesser-known titles), please feel free to share them!
+Below is a glimpse of some movies I have watched—spanning different cultures, languages, and storytelling styles.
 
 <style>
   /* The Container for the strip */
@@ -77,24 +78,26 @@ I love watching movies from across the globe, ranging from critically acclaimed 
 <a href="https://letterboxd.com/film/12-angry-men/" target="_blank" class="film-poster" title="12 Angry Men">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/7/0/0/51700-12-angry-men-0-2000-0-3000-crop.jpg?v=b8aaf291a9" alt="12 Angry Men">
 </a>
-
 <a href="https://letterboxd.com/film/dune-part-two/" target="_blank" class="film-poster" title="Dune: Part Two">
   <img src="https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-2000-0-3000-crop.jpg?v=cc533700f8" alt="Dune: Part Two">
 </a>
-
 <a href="https://letterboxd.com/film/pather-panchali/" target="_blank" class="film-poster" title="Pather Panchali">
   <img src="https://a.ltrbxd.com/resized/film-poster/4/8/6/4/9/48649-pather-panchali-0-2000-0-3000-crop.jpg?v=55ae5de64b" alt="Pather Panchali">
 </a>
-
-<a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster" title="The Matrix">
-  <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-2000-0-3000-crop.jpg?v=fc7c366afe" alt="The Matrix">
+<a href="https://letterboxd.com/film/parasite-2019/" target="_blank" class="film-poster" title="Parasite">
+<img src="https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-230-0-345-crop.jpg" alt="Parasite">
 </a>
-
 <a href="https://letterboxd.com/film/the-truman-show/" target="_blank" class="film-poster" title="The Truman Show">
   <img src="https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-2000-0-3000-crop.jpg?v=704ba393f7" alt="The Truman Show">
 </a>
+<a href="https://letterboxd.com/film/seven-samurai/" target="_blank" class="" title="Seven Samurai">
+<img src="https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-2000-0-3000-crop.jpg?v=973d70bb0c" alt="Seven Samurai">
+</a>
 <a href="https://letterboxd.com/film/fight-club/" target="_blank" class="film-poster" title="Fight Club">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-2000-0-3000-crop.jpg?v=768b32dfa4" alt="Fight Club">
+</a>
+<a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster" title="The Matrix">
+<img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-2000-0-3000-crop.jpg?v=fc7c366afe" alt="The Matrix">
 </a>
 <a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster" title="Little Miss Sunshine">
   <img src="https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-2000-0-3000-crop.jpg?v=09383296c6" alt="Little Miss Sunshine">
@@ -105,14 +108,12 @@ I love watching movies from across the globe, ranging from critically acclaimed 
 <a href="https://letterboxd.com/film/pulp-fiction/" target="_blank" class="film-poster" title="Pulp Fiction">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-2000-0-3000-crop.jpg?v=dee19a8077" alt="Pulp Fiction">
 </a>
-<a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster">
+<a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster", title="The Shawshank Redemption">
   <img src="https://a.ltrbxd.com/resized/sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-2000-0-3000-crop.jpg?v=8736d1c395" alt="The Shawshank Redemption">
 </a>
-
-  <a href="https://letterboxd.com/film/parasite-2019/" target="_blank" class="film-poster" title="Parasite">
-    <img src="https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-230-0-345-crop.jpg" alt="Parasite">
-  </a>
-
+<a href="https://letterboxd.com/film/super-deluxe/" target="_blank" class="" title="Super Deluxe">
+<img src="https://a.ltrbxd.com/resized/film-poster/3/6/5/1/3/0/365130-super-deluxe-0-2000-0-3000-crop.jpg?v=1d1cfec8e6" alt="Super Deluxe">
+</a>
   <a href="https://letterboxd.com/film/spirited-away/" target="_blank" class="film-poster" title="Spirited Away">
     <img src="https://a.ltrbxd.com/resized/film-poster/5/1/9/2/1/51921-spirited-away-0-2000-0-3000-crop.jpg?v=a3ad463c55" alt="Spirited Away">
   </a>
@@ -120,9 +121,40 @@ I love watching movies from across the globe, ranging from critically acclaimed 
   <a href="https://letterboxd.com/film/interstellar/" target="_blank" class="film-poster" title="Interstellar">
     <img src="https://a.ltrbxd.com/resized/film-poster/1/1/7/6/2/1/117621-interstellar-0-2000-0-3000-crop.jpg?v=7ad89e6666" alt="Interstellar">
   </a>
-  
-
-   </div>
+  <a href="https://letterboxd.com/film/daman/" target="_blank" class="" title="DAMaN">
+    <img src="https://a.ltrbxd.com/resized/film-poster/9/2/3/1/9/0/923190-daman-0-2000-0-3000-crop.jpg?v=b952730f8b" alt="DAMaN">
+  </a>
+  <a href="https://letterboxd.com/film/spider-man-across-the-spider-verse/" target="_blank" class="" title="Spider-Man: Across the Spider-Verse">
+    <img src="https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-2000-0-3000-crop.jpg?v=f2acbf1b8a" alt="Spider-Man: Across the Spider-Verse">
+  </a>
+  <a href="https://letterboxd.com/film/my-neighbor-totoro/" target="_blank" class="" title="My Neighbor Totoro">
+    <img src="https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-2000-0-3000-crop.jpg?v=749abe71ad" alt="My Neighbor Totoro">
+  </a>
+  <a href="https://letterboxd.com/film/3-idiots/" target="_blank" class="" title="3 Idiots">
+    <img src="https://a.ltrbxd.com/resized/film-poster/3/8/9/9/9/38999-3-idiots-0-2000-0-3000-crop.jpg?v=890bae83d8" alt="3 Idiots">
+  </a>
+  <a href="https://letterboxd.com/film/ne-zha/" target="_blank" class="" title="Ne Zha">
+    <img src="https://a.ltrbxd.com/resized/film-poster/5/4/2/3/4/1/542341-ne-zha-0-2000-0-3000-crop.jpg?v=286c1db228" alt="Ne Zha">
+  </a>
+  <a href="https://letterboxd.com/film/a-fistful-of-dollars/" target="_blank" class="" title="A Fistful of Dollars">
+    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/6/9/8/51698-a-fistful-of-dollars-0-2000-0-3000-crop.jpg?v=616ebad024" alt="A Fistful of Dollars">
+  </a>
+  <a href="https://letterboxd.com/film/ex-machina-2015/" target="_blank" class="" title="Ex Machina">
+    <img src="https://a.ltrbxd.com/resized/film-poster/1/8/7/9/8/6/187986-ex-machina-0-2000-0-3000-crop.jpg?v=2b4212d498" alt="Ex Machina">
+  </a>
+  <a href="https://letterboxd.com/film/jai-bhim/" target="_blank" class="" title="Jai Bhim">
+    <img src="https://a.ltrbxd.com/resized/film-poster/7/7/0/0/0/3/770003-jai-bhim-0-2000-0-3000-crop.jpg?v=d16e422670" alt="Jai Bhim">
+  </a>
+  <a href="" target="_blank" class="" title="">
+    <img src="" alt="">
+  </a>
+  <a href="" target="_blank" class="" title="">
+    <img src="" alt="">
+  </a>
+  <a href="" target="_blank" class="" title="">
+    <img src="" alt="">
+  </a>
+</div>
 <div class="lb-button-wrapper">
   <a href="https://letterboxd.com/hmaharna/films/by/rating/" target="_blank" class="btn btn--info">View Full Library on Letterboxd &rarr;</a>
 </div>
