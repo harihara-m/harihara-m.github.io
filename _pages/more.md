@@ -86,23 +86,29 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/parasite-2019/" target="_blank" class="film-poster" title="Parasite">
 <img src="https://a.ltrbxd.com/resized/film-poster/4/2/6/4/0/6/426406-parasite-0-230-0-345-crop.jpg" alt="Parasite">
 </a>
-<a href="https://letterboxd.com/film/the-truman-show/" target="_blank" class="film-poster" title="The Truman Show">
-  <img src="https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-2000-0-3000-crop.jpg?v=704ba393f7" alt="The Truman Show">
-</a>
 <a href="https://letterboxd.com/film/seven-samurai/" target="_blank" class="film-poster" title="Seven Samurai">
 <img src="https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-2000-0-3000-crop.jpg?v=973d70bb0c" alt="Seven Samurai">
+</a>
+<a href="https://letterboxd.com/film/the-truman-show/" target="_blank" class="film-poster" title="The Truman Show">
+<img src="https://a.ltrbxd.com/resized/sm/upload/xx/io/jp/45/the-truman-show-0-2000-0-3000-crop.jpg?v=704ba393f7" alt="The Truman Show">
+</a>
+<a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster" title="Little Miss Sunshine">
+<img src="https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-2000-0-3000-crop.jpg?v=09383296c6" alt="Little Miss Sunshine">
 </a>
 <a href="https://letterboxd.com/film/fight-club/" target="_blank" class="film-poster" title="Fight Club">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-2000-0-3000-crop.jpg?v=768b32dfa4" alt="Fight Club">
 </a>
-<a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster" title="The Matrix">
-<img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-2000-0-3000-crop.jpg?v=fc7c366afe" alt="The Matrix">
+<a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster" title="The Shawshank Redemption">
+<img src="https://a.ltrbxd.com/resized/sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-2000-0-3000-crop.jpg?v=8736d1c395" alt="The Shawshank Redemption">
 </a>
-<a href="https://letterboxd.com/film/little-miss-sunshine/" target="_blank" class="film-poster" title="Little Miss Sunshine">
-  <img src="https://a.ltrbxd.com/resized/sm/upload/h6/xm/om/q7/dOeM4R55TsAFBXCPNIDDMiJkePr-0-2000-0-3000-crop.jpg?v=09383296c6" alt="Little Miss Sunshine">
+<a href="https://letterboxd.com/film/spider-man-across-the-spider-verse/" target="_blank" class="film-poster" title="Spider-Man: Across the Spider-Verse">
+<img src="https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-2000-0-3000-crop.jpg?v=f2acbf1b8a" alt="Spider-Man: Across the Spider-Verse">
 </a>
 <a href="https://letterboxd.com/film/andhadhun/" target="_blank" class="film-poster" title="Andhadhun">
 <img src="https://a.ltrbxd.com/resized/film-poster/4/6/4/0/6/5/464065-andhadhun-0-2000-0-3000-crop.jpg?v=c628f30019" alt="Andhadhun">
+</a>
+<a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster" title="The Matrix">
+<img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-2000-0-3000-crop.jpg?v=fc7c366afe" alt="The Matrix">
 </a>
 <a href="https://letterboxd.com/film/mad-max-fury-road/" target="_blank" class="film-poster" title="Mad Max: Fury Road">
   <img src="https://a.ltrbxd.com/resized/film-poster/6/2/7/8/0/62780-mad-max-fury-road-0-2000-0-3000-crop.jpg?v=37c5424b1f" alt="Mad Max: Fury Road">
@@ -110,8 +116,8 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/pulp-fiction/" target="_blank" class="film-poster" title="Pulp Fiction">
   <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/4/4/51444-pulp-fiction-0-2000-0-3000-crop.jpg?v=dee19a8077" alt="Pulp Fiction">
 </a>
-<a href="https://letterboxd.com/film/the-shawshank-redemption/" target="_blank" class="film-poster" title="The Shawshank Redemption">
-  <img src="https://a.ltrbxd.com/resized/sm/upload/7l/hn/46/uz/zGINvGjdlO6TJRu9wESQvWlOKVT-0-2000-0-3000-crop.jpg?v=8736d1c395" alt="The Shawshank Redemption">
+<a href="https://letterboxd.com/film/ne-zha/" target="_blank" class="film-poster" title="Ne Zha">
+<img src="https://a.ltrbxd.com/resized/film-poster/5/4/2/3/4/1/542341-ne-zha-0-2000-0-3000-crop.jpg?v=286c1db228" alt="Ne Zha">
 </a>
 <a href="https://letterboxd.com/film/super-deluxe/" target="_blank" class="film-poster" title="Super Deluxe">
 <img src="https://a.ltrbxd.com/resized/film-poster/3/6/5/1/3/0/365130-super-deluxe-0-2000-0-3000-crop.jpg?v=1d1cfec8e6" alt="Super Deluxe">
@@ -126,32 +132,26 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
   <a href="https://letterboxd.com/film/daman/" target="_blank" class="film-poster" title="DAMaN">
     <img src="https://a.ltrbxd.com/resized/film-poster/9/2/3/1/9/0/923190-daman-0-2000-0-3000-crop.jpg?v=b952730f8b" alt="DAMaN">
   </a>
-  <a href="https://letterboxd.com/film/spider-man-across-the-spider-verse/" target="_blank" class="film-poster" title="Spider-Man: Across the Spider-Verse">
-    <img src="https://a.ltrbxd.com/resized/film-poster/4/9/7/6/3/1/497631-spider-man-across-the-spider-verse-0-2000-0-3000-crop.jpg?v=f2acbf1b8a" alt="Spider-Man: Across the Spider-Verse">
-  </a>
   <a href="https://letterboxd.com/film/my-neighbor-totoro/" target="_blank" class="film-poster" title="My Neighbor Totoro">
     <img src="https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-2000-0-3000-crop.jpg?v=749abe71ad" alt="My Neighbor Totoro">
   </a>
-  <a href="https://letterboxd.com/film/3-idiots/" target="_blank" class="" title="3 Idiots">
+  <a href="https://letterboxd.com/film/3-idiots/" target="_blank" class="film-poster" title="3 Idiots">
     <img src="https://a.ltrbxd.com/resized/film-poster/3/8/9/9/9/38999-3-idiots-0-2000-0-3000-crop.jpg?v=890bae83d8" alt="3 Idiots">
   </a>
-  <a href="https://letterboxd.com/film/ne-zha/" target="_blank" class="" title="Ne Zha">
-    <img src="https://a.ltrbxd.com/resized/film-poster/5/4/2/3/4/1/542341-ne-zha-0-2000-0-3000-crop.jpg?v=286c1db228" alt="Ne Zha">
-  </a>
-  <a href="https://letterboxd.com/film/a-fistful-of-dollars/" target="_blank" class="" title="A Fistful of Dollars">
+  <a href="https://letterboxd.com/film/a-fistful-of-dollars/" target="_blank" class="film-poster" title="A Fistful of Dollars">
     <img src="https://a.ltrbxd.com/resized/film-poster/5/1/6/9/8/51698-a-fistful-of-dollars-0-2000-0-3000-crop.jpg?v=616ebad024" alt="A Fistful of Dollars">
   </a>
-  <a href="https://letterboxd.com/film/ex-machina-2015/" target="_blank" class="" title="Ex Machina">
+  <a href="https://letterboxd.com/film/ex-machina-2015/" target="_blank" class="film-poster" title="Ex Machina">
     <img src="https://a.ltrbxd.com/resized/film-poster/1/8/7/9/8/6/187986-ex-machina-0-2000-0-3000-crop.jpg?v=2b4212d498" alt="Ex Machina">
   </a>
-  <a href="https://letterboxd.com/film/jai-bhim/" target="_blank" class="" title="Jai Bhim">
+  <a href="https://letterboxd.com/film/jai-bhim/" target="_blank" class="film-poster" title="Jai Bhim">
     <img src="https://a.ltrbxd.com/resized/film-poster/7/7/0/0/0/3/770003-jai-bhim-0-2000-0-3000-crop.jpg?v=d16e422670" alt="Jai Bhim">
   </a>
-  <a href="https://letterboxd.com/film/before-sunrise/" target="_blank" class="" title="Before Sunrise">
-    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-2000-0-3000-crop.jpg?v=006e8fedea" alt="Before Sunrise">
-  </a>
-  <a href="https://letterboxd.com/film/the-sixth-sense/" target="_blank" class="" title="The Sixth Sense">
+  <a href="https://letterboxd.com/film/the-sixth-sense/" target="_blank" class="film-poster" title="The Sixth Sense">
     <img src="https://a.ltrbxd.com/resized/film-poster/5/1/4/0/7/51407-the-sixth-sense-0-2000-0-3000-crop.jpg?v=ab482dfeb6" alt="The Sixth Sense">
+  </a>
+  <a href="https://letterboxd.com/film/before-sunrise/" target="_blank" class="film-poster" title="Before Sunrise">
+  <img src="https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-2000-0-3000-crop.jpg?v=006e8fedea" alt="Before Sunrise">
   </a>
 </div>
 <div class="lb-button-wrapper">
