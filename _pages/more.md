@@ -107,6 +107,9 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
 <a href="https://letterboxd.com/film/andhadhun/" target="_blank" class="film-poster" title="Andhadhun">
 <img src="https://a.ltrbxd.com/resized/film-poster/4/6/4/0/6/5/464065-andhadhun-0-2000-0-3000-crop.jpg?v=c628f30019" alt="Andhadhun">
 </a>
+<a href="https://letterboxd.com/film/a-fistful-of-dollars/" target="_blank" class="film-poster" title="A Fistful of Dollars">
+<img src="https://a.ltrbxd.com/resized/film-poster/5/1/6/9/8/51698-a-fistful-of-dollars-0-2000-0-3000-crop.jpg?v=616ebad024" alt="A Fistful of Dollars">
+</a>
 <a href="https://letterboxd.com/film/the-matrix/" target="_blank" class="film-poster" title="The Matrix">
 <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/1/8/51518-the-matrix-0-2000-0-3000-crop.jpg?v=fc7c366afe" alt="The Matrix">
 </a>
@@ -137,9 +140,6 @@ Below is a glimpse of some movies I have watched—spanning different cultures, 
   </a>
   <a href="https://letterboxd.com/film/3-idiots/" target="_blank" class="film-poster" title="3 Idiots">
     <img src="https://a.ltrbxd.com/resized/film-poster/3/8/9/9/9/38999-3-idiots-0-2000-0-3000-crop.jpg?v=890bae83d8" alt="3 Idiots">
-  </a>
-  <a href="https://letterboxd.com/film/a-fistful-of-dollars/" target="_blank" class="film-poster" title="A Fistful of Dollars">
-    <img src="https://a.ltrbxd.com/resized/film-poster/5/1/6/9/8/51698-a-fistful-of-dollars-0-2000-0-3000-crop.jpg?v=616ebad024" alt="A Fistful of Dollars">
   </a>
   <a href="https://letterboxd.com/film/ex-machina-2015/" target="_blank" class="film-poster" title="Ex Machina">
     <img src="https://a.ltrbxd.com/resized/film-poster/1/8/7/9/8/6/187986-ex-machina-0-2000-0-3000-crop.jpg?v=2b4212d498" alt="Ex Machina">
