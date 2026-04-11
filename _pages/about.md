@@ -18,7 +18,7 @@ redirect_from:
 
 <div style="font-size: 1.1em; line-height: 1.6; margin-bottom: 2rem;">
   <p>
-    I am <strong>Harihara Maharna</strong>, a PhD student in <strong>Applied and Computational Mathematics</strong> at the 
+    I am <strong>Harihara Maharna</strong>, a PhD Candidate in <strong>Applied and Computational Mathematics</strong> at the 
     <a href="https://acms.nd.edu/">Department of Applied and Computational Mathematics and Statistics (ACMS)</a>, 
     <strong>University of Notre Dame</strong>, IN, USA.
   </p>
