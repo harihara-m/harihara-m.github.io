@@ -21,6 +21,7 @@ The current focus is the **Cahn-Hilliard equation** for phase-separation dynamic
 - An **implicit midpoint symplectic time-stepping scheme** with provable energy stability.
 
 The framework is implemented in **PyTorch** and is being extended to coupled **Cahn-Hilliard–Navier-Stokes** systems for modeling complex fluid dynamics.
+
 <!--Heading 1-->
 <!--======-->
 <!---->
