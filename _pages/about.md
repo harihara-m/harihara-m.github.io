@@ -23,9 +23,8 @@ redirect_from:
     <strong>University of Notre Dame</strong>, IN, USA.
   </p>
 
-  <p>
-    I work under the supervision of <a href="https://acms.nd.edu/people/zhiliang-xu/">Dr. Zhiliang Xu</a>, focusing on developing 
-    <strong>deep neural network algorithms for multiscale models</strong>.
+<p>
+    My research focuses on developing <strong>structure-preserving deep learning methods for complex fluids problems</strong>. I am building the <strong>Energetic Variational</strong> framework — a thermodynamically consistent approach grounded in the Energetic Variational Approach (EnVarA). I work under the supervision of <a href="https://acms.nd.edu/people/zhiliang-xu/">Dr. Zhiliang Xu</a>.
   </p>
 
   <p>
@@ -43,13 +42,17 @@ redirect_from:
 </div>
 
 
-<!-- <div style="background-color: #fff; border-left: 4px solid #0056b3; padding: 15px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05);"> -->
-<!--   <h3 style="margin-top: 0; color: #333;">📢 Recent Updates</h3> -->
-<!--   <ul style="margin-bottom: 0; font-size: 0.95em;"> -->
-<!--     <li><strong>Jan 2026:</strong> Started my Ph.D. candidacy research on Multiscale Deep Learning.</li> -->
-<!--     <li><strong>Dec 2025:</strong> Updated my <a href="/more/">movie library</a>.</li> -->
-<!--   </ul> -->
-<!-- </div> -->
+<div style="background-color: #fff; border-left: 4px solid #0056b3; padding: 15px; margin-bottom: 2rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <h3 style="margin-top: 0; color: #333;">📢 Recent News</h3>
+  <ul style="margin-bottom: 0; font-size: 0.95em;">
+    <li><strong>Summer 2026:</strong> Joining <strong>IBM Research Ireland</strong> to work on foundation models for plasma physics.</li>
+    <li><strong>April 2026:</strong> Presented at the <strong>Midwest Numerical Analysis Day</strong> at Notre Dame.</li>
+    <li><strong>March 2026:</strong> Passed my <strong>doctoral candidacy exam</strong>.</li>
+    <li><strong>2025:</strong> Received the <strong>People's Choice Award</strong> at Notre Dame's Interdisciplinary Graduate Research Symposium.</li>
+    <li><strong>September 2025:</strong> Presented at the <strong>SciML Workshop</strong> at Purdue University.</li>
+    <li><strong>2025:</strong> Published in <em>Applied Mathematics and Computation</em> — an asymptotic-preserving, energy-stable scheme for the barotropic Euler system.</li>
+  </ul>
+</div>
 
 <h2 style="text-align: center;">🔗 Quick Access</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 1rem;">
