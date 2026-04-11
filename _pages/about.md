@@ -48,7 +48,7 @@ redirect_from:
     <li><strong>Summer 2026:</strong> Joining <strong>IBM Research Ireland</strong> to work on foundation models for plasma physics.</li>
     <li><strong>April 2026:</strong> Presented at the <strong>Midwest Numerical Analysis Day</strong> at Notre Dame.</li>
     <li><strong>March 2026:</strong> Passed my <strong>doctoral candidacy exam</strong>.</li>
-    <li><strong>2025:</strong> Received the <strong>People's Choice Award</strong> at Notre Dame's Interdisciplinary Graduate Research Symposium.</li>
+    <li><strong>March 2025:</strong> Received the <strong>People's Choice Award</strong> at Notre Dame's Interdisciplinary Graduate Research Symposium.</li>
     <li><strong>September 2025:</strong> Presented at the <strong>SciML Workshop</strong> at Purdue University.</li>
     <li><strong>2025:</strong> Published in <em>Applied Mathematics and Computation</em> — an asymptotic-preserving, energy-stable scheme for the barotropic Euler system.</li>
   </ul>

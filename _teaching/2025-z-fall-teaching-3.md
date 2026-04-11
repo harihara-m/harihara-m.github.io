@@ -8,4 +8,4 @@ date: 27-08-2025
 location: "Notre Dame, IN"
 ---
 
-As a Teaching Assistant, my main job is to held office hours and grade homework.
+As a Teaching Assistant, I held office hours and grade homework.

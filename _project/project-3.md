@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning for Multiscale Models"
+title: "Deep Learning for Complex Fluids"
 collection: project
 type: "Project"
 permalink: /project/project-3
@@ -8,11 +8,19 @@ date: 01-06-2025
 location: "Notre Dame, IN"
 ---
 
-- Guide: Dr. Zhiliang Xu, Professor, ACMS Department, University of Notre Dame, Notre Dame, IN.
-- About the project: This work is part of my Graduate Research Assistantship at the University of Notre Dame.
-  - Architected and implemented an Energetic Variational Deep Neural Network (EVNN) solver in PyTorch to model Cahn-Hilliard phase-separation dynamics.
-  - Ensured model stability and physical consistency by enforcing energy conservation laws directly within the neural network architecture, resulting in more robust and reliable simulations.
-  - Scaling this EVNN framework to model complex, coupled Cahn–Hilliard–Navier–Stokes systems to improve training stability for high-dimensional fluid dynamics.
+**Advisor:** [Dr. Zhiliang Xu](https://acms.nd.edu/people/zhiliang-xu/), Professor, ACMS Department, University of Notre Dame
+
+This is my primary doctoral research, conducted as part of my Graduate Research Assistantship.
+
+I am developing the displacement-based JKO scheme — a structure-preserving deep learning approach for solving complex fluids. The method is grounded in the **Energetic Variational Approach (EnVarA)**, which derives dynamics from the interplay between energy and dissipation. By constructing the numerical scheme directly from the energy-dissipation law, the scheme guarantees monotonic decay of the system's free energy, preventing unphysical states and ensuring long-term stability.
+
+The current focus is the **Cahn-Hilliard equation** for phase-separation dynamics. Key contributions include:
+
+- A **displacement-based neural network discretization** that uses neural networks as mesh-free spatial discretizers, enabling scalability to high dimensions.
+- A **gradient-based adaptive refinement** strategy for better capturing diffuse interfaces.
+- An **implicit midpoint symplectic time-stepping scheme** with provable energy stability.
+
+The framework is implemented in **PyTorch** and is being extended to coupled **Cahn-Hilliard–Navier-Stokes** systems for modeling complex fluid dynamics.
 <!--Heading 1-->
 <!--======-->
 <!---->
