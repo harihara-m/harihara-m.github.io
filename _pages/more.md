@@ -453,6 +453,184 @@ Traveling is another passion of mine. I enjoy exploring different cultures and l
       </details>
     </div>
   </details>
+
+  <details>
+    <summary><strong class="country-title">🇮🇪 Ireland</strong></summary>
+    <div style="padding-left: 20px;">
+      <details>
+        <summary><span class="state-title">County Dublin</span> <span class="note">(Summer internship at IBM Research Ireland)</span></summary>
+        <ul>
+          <li><span class="city-name">Dublin City</span>
+            <ul>
+              <li class="uni-item">🎓 Trinity College Dublin <span class="note">(IBM Research Ireland, inside Trinity Business School)</span></li>
+              <li class="uni-item">🎓 University College Dublin</li>
+              <li class="uni-item">🎓 National College of Ireland</li>
+              <li><em>Landmarks &amp; Culture</em>
+                <ul>
+                  <li>The Book of Kells Experience</li>
+                  <li>National Gallery of Ireland</li>
+                  <li>Guinness Storehouse</li>
+                  <li>Christ Church Cathedral</li>
+                  <li>Croke Park</li>
+                  <li>Glasnevin Cemetery</li>
+                  <li>ISKCON Dublin Krishna Temple</li>
+                  <li>Sandymount Beach</li>
+                  <li>Poolbeg Lighthouse</li>
+                  <li>Light House Cinema</li>
+                  <li>Cineworld Dublin</li>
+                </ul>
+              </li>
+              <li><em>Pubs &amp; Bars</em>
+                <ul>
+                  <li>The Temple Bar Pub</li>
+                  <li>Porterhouse Temple Bar</li>
+                  <li>The Cobblestone</li>
+                  <li>Doheny &amp; Nesbitt</li>
+                  <li>O'Donoghues Bar</li>
+                  <li>The Ginger Man</li>
+                  <li>Searsons</li>
+                  <li>The Bleeding Horse</li>
+                  <li>The Camden</li>
+                  <li>Keavan's Port (JD Wetherspoon)</li>
+                  <li>The Bar With No Name</li>
+                  <li>Dicey's Garden</li>
+                  <li>The Black Sheep</li>
+                  <li>Turk's Head</li>
+                  <li>Doyle's</li>
+                  <li>Pavilion Bar</li>
+                  <li>The Lombard</li>
+                </ul>
+              </li>
+              <li><em>Food</em>
+                <ul>
+                  <li>The Unicorn Restaurant</li>
+                  <li>Camile Thai (Pearse Street)</li>
+                  <li>Boojum (Abbey Street)</li>
+                  <li>Al Bait Al Shami Restaurant</li>
+                  <li>Istanbul Kebab</li>
+                  <li>Iskender Turkish Kebab</li>
+                  <li>Zing by Chaska</li>
+                  <li>Summer Inn Asian Food (Thomas Street)</li>
+                  <li>Xian Street Food</li>
+                  <li>Centra Westland Row</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li><span class="city-name">Howth</span>
+            <ul>
+              <li>Howth Cliff Walk (Green Route)</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Sandycove</span>
+            <ul>
+              <li>Forty Foot (sea swimming spot)</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details>
+        <summary><span class="state-title">County Wicklow</span></summary>
+        <ul>
+          <li><span class="city-name">Glendalough</span> (monastic site in the Wicklow Mountains)</li>
+        </ul>
+      </details>
+      <details>
+        <summary><span class="state-title">County Galway</span></summary>
+        <ul>
+          <li><span class="city-name">Galway City</span>
+            <ul>
+              <li class="uni-item">🎓 University of Galway</li>
+              <li>Eyre Square</li>
+              <li>The Quays Bar and Restaurant</li>
+              <li>Monroe's Tavern</li>
+              <li>The Crane Bar</li>
+              <li>Merchant Café &amp; Bar</li>
+              <li>Giovanni's</li>
+              <li>Kabo Coffee</li>
+              <li>Russell's Fishshop</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Connemara</span>
+            <ul>
+              <li>Clifden</li>
+              <li>Kylemore Abbey</li>
+              <li>Veldon's Seafarer Bar &amp; Restaurant (Letterfrack)</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details>
+        <summary><span class="state-title">County Clare</span></summary>
+        <ul>
+          <li>Cliffs of Moher</li>
+        </ul>
+      </details>
+      <details>
+        <summary><span class="state-title">County Cork</span></summary>
+        <ul>
+          <li><span class="city-name">Cork City</span>
+            <ul>
+              <li>Elizabeth Fort</li>
+              <li>St Francis Roman Catholic Church</li>
+              <li>Oliver Plunkett Street</li>
+              <li>The Crane Lane Theatre</li>
+              <li>Clancys Marboro Lounge</li>
+              <li>JJ Walsh's</li>
+              <li>The Oval</li>
+              <li>Tom Barry's</li>
+              <li>Costigan's Pub</li>
+              <li>Oak Fire Pizza (Princes Street)</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details>
+        <summary><span class="state-title">County Sligo</span></summary>
+        <ul>
+          <li><span class="city-name">Knocknarea</span>
+            <ul>
+              <li>Queen Maeve Trail &amp; Viewpoint</li>
+              <li>Knocknarea Tomb Quarry</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Benbulben</span>
+            <ul>
+              <li>Benbulben Forest Walk</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Sligo Town</span>
+            <ul>
+              <li>Sligo Abbey</li>
+              <li>Cathedral of St Mary the Virgin and St John the Baptist</li>
+              <li>Sligo City Hall</li>
+              <li>Famine Memorial</li>
+              <li>Gracie's Bar</li>
+              <li>Hooked</li>
+              <li>Sligo Park Hotel</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details>
+        <summary><span class="state-title">County Donegal</span></summary>
+        <ul>
+          <li><span class="city-name">Sliabh Liag (Slieve League)</span>
+            <ul>
+              <li>Slieve League Cliffs Centre</li>
+              <li>Bunglass Point</li>
+              <li>Sliabh Liag Walk</li>
+            </ul>
+          </li>
+          <li><span class="city-name">Killybegs</span>
+            <ul>
+              <li>Killybegs seafood shack</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+    </div>
+  </details>
   <p>I am always looking to expand this list and discover more of the world in my free time!</p>
 </div>
 
