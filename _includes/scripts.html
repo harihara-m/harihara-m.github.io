@@ -1,2 +1,58 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+
+<script>
+  /* Dark mode toggle. An explicit choice is saved in localStorage and
+     shared by every page; until one is made the OS setting is followed. */
+  (function () {
+    var root = document.documentElement;
+    var button = document.getElementById('theme-toggle');
+    var themeColor = document.querySelector('meta[name="theme-color"]');
+    var systemDark = window.matchMedia ? window.matchMedia('(prefers-color-scheme: dark)') : null;
+
+    function savedTheme() {
+      try { return localStorage.getItem('theme'); } catch (e) { return null; }
+    }
+
+    function applyTheme(theme) {
+      root.setAttribute('data-theme', theme);
+      if (themeColor) {
+        themeColor.setAttribute('content', theme === 'dark' ? '#0f1216' : '#ffffff');
+      }
+      if (button) {
+        var label = theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
+        button.setAttribute('aria-label', label);
+        button.setAttribute('title', label);
+      }
+    }
+
+    applyTheme(root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light');
+
+    if (button) {
+      button.addEventListener('click', function () {
+        var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        try { localStorage.setItem('theme', next); } catch (e) {}
+        applyTheme(next);
+      });
+    }
+
+    if (systemDark) {
+      var onSystemChange = function (event) {
+        if (!savedTheme()) {
+          applyTheme(event.matches ? 'dark' : 'light');
+        }
+      };
+      if (systemDark.addEventListener) {
+        systemDark.addEventListener('change', onSystemChange);
+      } else if (systemDark.addListener) {
+        systemDark.addListener(onSystemChange);
+      }
+    }
+
+    window.addEventListener('storage', function (event) {
+      if (event.key === 'theme' && (event.newValue === 'light' || event.newValue === 'dark')) {
+        applyTheme(event.newValue);
+      }
+    });
+  })();
+</script>
 {% include analytics.html %}

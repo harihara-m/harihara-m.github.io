@@ -4,7 +4,9 @@
 
 .masthead {
   position: fixed;
-  background: white;
+  background: var(--masthead-bg-color);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+          backdrop-filter: saturate(180%) blur(12px);
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
@@ -19,7 +21,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0.75em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
@@ -37,6 +39,16 @@
 }
 
 .masthead__menu {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+
+  .greedy-nav {
+    -webkit-box-flex: 1;
+            flex: 1 1 auto;
+    min-width: 0;
+  }
 
   ul {
     margin: 0;
@@ -55,4 +67,67 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+/* dark mode toggle; sits outside #site-nav because the greedy-nav script
+   treats every button inside #site-nav as its overflow button */
+
+.theme-toggle {
+  -webkit-box-flex: 0;
+          flex: 0 0 auto;
+  display: -webkit-inline-box;
+  display: inline-flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin-left: 0.75rem;
+  padding: 0;
+  color: $masthead-link-color;
+  background: transparent;
+  border: 1px solid $border-color;
+  border-radius: 50%;
+  cursor: pointer;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+    border-color: $light-gray;
+  }
+
+  &:focus {
+    outline: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $primary-color;
+    outline-offset: 2px;
+  }
+
+  svg {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
+}
+
+.theme-toggle__icon--sun {
+  display: none;
+}
+
+[data-theme="dark"] {
+  .theme-toggle__icon--sun {
+    display: block;
+  }
+
+  .theme-toggle__icon--moon {
+    display: none;
+  }
+}
+
+/* the toggle needs JavaScript; hide it when scripts are off */
+.no-js .theme-toggle {
+  display: none;
 }

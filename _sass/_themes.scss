@@ -1,0 +1,133 @@
+/* ==========================================================================
+   THEMES (light / dark)
+
+   Theme-dependent colors are CSS custom properties so they can switch at
+   runtime. The inline script in _includes/head.html sets
+   <html data-theme="light|dark"> from the saved choice or the OS setting;
+   without JavaScript the OS setting is used via the media query below.
+   ========================================================================== */
+
+@mixin light-theme {
+  color-scheme: light;
+  --bg-color: #ffffff;
+  --surface-color: #ffffff;
+  --surface-soft-color: #f6f8fa;
+  --text-color: #2b3137;
+  --heading-color: #0f1419;
+  --muted-color: #5c6670;
+  --subtle-color: #8c959f;
+  --border-color: #e7eaee;
+  --border-strong-color: #d0d7de;
+  --accent-color: #2457c5;
+  --accent-hover-color: #183e93;
+  --accent-contrast-color: #ffffff;
+  --link-underline-color: rgba(36, 87, 197, 0.3);
+  --masthead-bg-color: rgba(255, 255, 255, 0.86);
+  --shadow-color: rgba(15, 23, 42, 0.08);
+  --overlay-shadow-color: rgba(15, 23, 42, 0.14);
+  --selection-color: rgba(36, 87, 197, 0.18);
+  --syntax-text-color: #586e75;
+  --syntax-comment-color: #93a1a1;
+}
+
+@mixin dark-theme {
+  color-scheme: dark;
+  --bg-color: #0f1216;
+  --surface-color: #171b21;
+  --surface-soft-color: #1b2027;
+  --text-color: #d3d9df;
+  --heading-color: #f1f4f7;
+  --muted-color: #98a2ad;
+  --subtle-color: #69737e;
+  --border-color: #252b33;
+  --border-strong-color: #353d47;
+  --accent-color: #7ea6f8;
+  --accent-hover-color: #adc6fb;
+  --accent-contrast-color: #0f1216;
+  --link-underline-color: rgba(126, 166, 248, 0.4);
+  --masthead-bg-color: rgba(15, 18, 22, 0.82);
+  --shadow-color: rgba(0, 0, 0, 0.35);
+  --overlay-shadow-color: rgba(0, 0, 0, 0.5);
+  --selection-color: rgba(126, 166, 248, 0.3);
+  --syntax-text-color: #9fb0b5;
+  --syntax-comment-color: #6c8087;
+}
+
+:root {
+  @include light-theme;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-theme;
+  }
+}
+
+:root[data-theme="dark"] {
+  @include dark-theme;
+}
+
+
+/*
+   Dark-mode fixes for colors hard-coded in page content
+   (about.md, cv.md and more.md set colors inline or in page-level <style>
+   blocks, which can't follow the theme). Remove each rule once that page
+   uses classes instead. Inline styles need !important to be overridden.
+   ========================================================================== */
+
+@mixin dark-content-fixes {
+  /* about.md: section heading rule */
+  .page__content h3[style*="#f2f2f2"] {
+    border-bottom-color: var(--border-color) !important;
+  }
+
+  /* about.md: research-interest chips */
+  .page__content span[style*="#e3f2fd"] {
+    background-color: rgba(126, 166, 248, 0.14) !important;
+    color: #b9cffc !important;
+  }
+
+  /* about.md: "Recent News" box (white background, #333 heading) */
+  .page__content div[style*="background-color: #fff;"] {
+    background-color: var(--surface-color) !important;
+    border-left-color: var(--accent-color) !important;
+    box-shadow: none !important;
+
+    h3 {
+      color: var(--heading-color) !important;
+    }
+  }
+
+  /* about.md: quick-access cards (pastel background, dark text) */
+  .page__content a[style*="#fff4e6"] { background-color: rgba(255, 159, 67, 0.12) !important; color: #ffb877 !important; }
+  .page__content a[style*="#e6f4ea"] { background-color: rgba(74, 222, 128, 0.1) !important; color: #86e0a6 !important; }
+  .page__content a[style*="#fffde6"] { background-color: rgba(250, 204, 21, 0.1) !important; color: #f2d36b !important; }
+  .page__content a[style*="#ffebeb"] { background-color: rgba(248, 113, 113, 0.12) !important; color: #ff9b9b !important; }
+  .page__content a[style*="#e6f0fa"] { background-color: rgba(96, 165, 250, 0.12) !important; color: #9cc6ff !important; }
+  .page__content a[style*="#f3e6fa"] { background-color: rgba(192, 132, 252, 0.12) !important; color: #d4aaff !important; }
+
+  /* cv.md: intro line */
+  .archive span[style*="#2F4F4F"] {
+    color: var(--muted-color) !important;
+  }
+
+  /* more.md: travel list and <summary> rows */
+  .country-title { color: var(--accent-color); }
+  .state-title { color: var(--heading-color); }
+  .city-name { color: var(--text-color); }
+  .note { color: var(--muted-color); }
+  .uni-item { color: #c9a2ff; }
+  summary:hover { background-color: var(--surface-soft-color); }
+  summary::before { color: var(--muted-color); }
+  details[open] > summary::before { color: var(--accent-color); }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-content-fixes;
+  }
+}
+
+:root[data-theme="dark"] {
+  @include dark-content-fixes;
+}

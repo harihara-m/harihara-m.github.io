@@ -94,8 +94,9 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 4px;
       border: 1px solid $border-color;
+      background: $surface-color;
     }
   }
 }
@@ -126,6 +127,8 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+  font-weight: 650;
+  letter-spacing: -0.01em;
 }
 
 .sidebar .author__desktop {
@@ -146,6 +149,7 @@
 
 .author__bio {
   margin: 0;
+  color: $muted-text-color;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -190,9 +194,9 @@
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  background: #fff;
+  background: $surface-color;
   z-index: -1;
-  box-shadow: 0 0 10px rgba(#000, 0.25);
+  box-shadow: $overlay-shadow;
   cursor: default;
 
   @include breakpoint($large) {
@@ -231,7 +235,7 @@
     width: 0;
     border-style: solid;
     border-width: 0 10px 10px;
-    border-color: #fff transparent;
+    border-color: $surface-color transparent;
     z-index: 1;
 
     @include breakpoint($large) {
@@ -241,6 +245,7 @@
 
   li {
     white-space: nowrap;
+    color: $muted-text-color;
   }
 
   a {
@@ -249,12 +254,12 @@
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: $muted-text-color;
     font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: $heading-color;
     }
   }
 }

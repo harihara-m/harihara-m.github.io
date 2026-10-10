@@ -36,7 +36,10 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  font-size: $type-size-2;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.022em;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -51,7 +54,7 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.4em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -74,12 +77,15 @@
 
   a {
     text-decoration: underline;
+    text-decoration-color: $link-underline-color;
 
     &:hover {
+      color: $link-color-hover;
       text-decoration: underline;
+      text-decoration-color: currentColor;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: $overlay-shadow;
       }
     }
   }
@@ -227,7 +233,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: $muted-text-color;
   font-family: $sans-serif;
   font-size: $type-size-6;
 
