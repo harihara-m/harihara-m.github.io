@@ -48,13 +48,6 @@ logos:
     <li><strong>September 2026:</strong> Presented a poster, <em>"A Variational Neural Lagrangian Method for Generalized Diffusion via Incremental Displacement Maps,"</em> at the <strong>Scientific Machine Learning Workshop</strong> at Notre Dame.</li>
     <li><strong>Fall 2026:</strong> Serving as <strong>Social Co-Chair</strong> of Notre Dame's Graduate Student Government for 2026–2027.</li>
     <li><strong>Summer 2026:</strong> Joined <strong>IBM Research Ireland</strong> as a summer research intern, working on physics-informed training of TokaMind, a transformer foundation model for tokamak plasma dynamics. Supported by the <strong>IBM Ireland Graduate Fellowship</strong>.</li>
-    <li><strong>April 2026:</strong> Gave a talk, <em>"A Neural-Network-Based Lagrangian Method for Generalized Diffusion with Adaptive Refinement,"</em> at the <strong>Midwest Numerical Analysis Day</strong> at Notre Dame.</li>
-    <li><strong>March 2026:</strong> Passed my <strong>doctoral candidacy exam</strong>.</li>
-    <li><strong>March 2026:</strong> Received the <strong>People's Choice Talk Award</strong> at Notre Dame's Interdisciplinary Graduate Research Symposium for <em>"When Fluids Can't Make Up Their Mind,"</em> along with an <strong>Honorable Mention for Best Use of Data and/or Math Modeling</strong>.</li>
-    <li><strong>March 2026:</strong> Spoke at the <strong>ACMS Graduate &amp; Postdoc Seminar</strong> on <em>"Deep Learning for Complex Fluids: Structure-Preserving Discretization of the EnVarA."</em></li>
-    <li><strong>September 2025:</strong> Gave a lightning talk on <em>"Energetic Variational Neural Network Discretization of the Cahn-Hilliard Equation"</em> at the <strong>SciML Workshop</strong> at Purdue University.</li>
-    <li><strong>2025:</strong> Received the <strong>ACMS Departmental Award</strong> for the highest score on the Applied Mathematics qualifying exam.</li>
-    <li><strong>2025:</strong> Published in <em>Applied Mathematics and Computation</em>: <a href="https://doi.org/10.1016/j.amc.2025.129306">an asymptotic-preserving, energy-stable scheme for the barotropic Euler system</a>.</li>
   </ul>
 </div>
 

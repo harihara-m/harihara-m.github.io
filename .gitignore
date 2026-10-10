@@ -1,0 +1,22 @@
+# Jekyll build output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler (GitHub Pages resolves its own gem versions)
+Gemfile.lock
+.bundle/
+vendor/
+
+# npm, only needed to rebuild assets/js/main.min.js
+node_modules/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Raw photos, abstracts and notes to turn into site content.
+# Jekyll also skips folders starting with "_", so nothing here is published.
+_inbox/

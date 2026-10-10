@@ -1,10 +1,11 @@
 ---
 title: "Energetic Variational Neural Network Discretization of the Cahn-Hilliard Equation"
 collection: talks
-type: "Talk"
+type: "Lightning Talk"
 permalink: /talks/talk-1
 venue: "Scientific Machine Learning: Theory, Algorithm, and Applications Workshop"
 date: 2025-09-28
+event_dates: "September 27–28, 2025"
 location: "Purdue University, West Lafayette, IN"
 ---
 

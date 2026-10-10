@@ -232,3 +232,75 @@
     }
   }
 }
+
+
+/*
+   Section headings and dates on archive-layout pages (CV, Projects, ...)
+   ========================================================================== */
+
+.archive > h2 {
+  margin-top: 2.25em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid $border-color;
+}
+
+.cv-date {
+  display: block;
+  color: $muted-text-color;
+  font-size: 0.9em;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+
+  @include breakpoint($small) {
+    display: inline;
+    float: right;
+    margin-left: 1rem;
+  }
+}
+
+
+/*
+   Talks (_includes/talk-meta.html)
+   ========================================================================== */
+
+.talk__meta {
+  margin-bottom: 0.75em;
+
+  p {
+    margin: 0 0 0.25em;
+  }
+
+  .page__meta {
+    margin: 0;
+  }
+}
+
+.talk__venue {
+  color: $text-color;
+  font-size: 0.95em;
+  font-weight: 500;
+}
+
+.talk__type {
+  display: inline-block;
+  margin-right: 0.5em;
+  padding: 0.1em 0.65em;
+  color: $primary-color;
+  font-size: 0.7em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  vertical-align: 0.15em;
+  border: 1px solid $link-underline-color;
+  border-radius: 999px;
+}
+
+.talk__award {
+  color: $text-color;
+  font-size: $type-size-6;
+  font-weight: 500;
+
+  i {
+    color: #d4a017;
+  }
+}

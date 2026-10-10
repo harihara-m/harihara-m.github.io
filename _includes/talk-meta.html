@@ -1,0 +1,20 @@
+{% comment %}
+  Type, venue, location, dates and award for one talk.
+  Usage: {% include talk-meta.html talk=post %}
+  Front matter: type, venue, location, date, and optionally event_dates
+  (e.g. "April 11–12, 2026", shown instead of date) and award.
+{% endcomment %}
+{% assign talk = include.talk %}
+<div class="talk__meta">
+  <p class="talk__venue">
+    {% if talk.type %}<span class="talk__type">{{ talk.type }}</span>{% endif %}
+    {{ talk.venue }}
+  </p>
+  <p class="page__meta">
+    {% if talk.location %}{{ talk.location }} &middot; {% endif %}
+    <time datetime="{{ talk.date | date: '%Y-%m-%d' }}">{% if talk.event_dates %}{{ talk.event_dates }}{% else %}{{ talk.date | date: '%B %-d, %Y' }}{% endif %}</time>
+  </p>
+  {% if talk.award %}
+  <p class="talk__award"><i class="fas fa-award" aria-hidden="true"></i> {{ talk.award }}</p>
+  {% endif %}
+</div>

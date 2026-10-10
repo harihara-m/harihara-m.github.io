@@ -86,7 +86,7 @@
 
 /*
    Dark-mode fixes for colors hard-coded in page content
-   (about.md, cv.md and more.md set colors inline or in page-level <style>
+   (about.md and more.md set colors inline or in page-level <style>
    blocks, which can't follow the theme). Remove each rule once that page
    uses classes instead. Inline styles need !important to be overridden.
    ========================================================================== */
@@ -121,11 +121,6 @@
   .page__content a[style*="#ffebeb"] { background-color: rgba(248, 113, 113, 0.12) !important; color: #ff9b9b !important; }
   .page__content a[style*="#e6f0fa"] { background-color: rgba(96, 165, 250, 0.12) !important; color: #9cc6ff !important; }
   .page__content a[style*="#f3e6fa"] { background-color: rgba(192, 132, 252, 0.12) !important; color: #d4aaff !important; }
-
-  /* cv.md: intro line */
-  .archive span[style*="#2F4F4F"] {
-    color: var(--muted-color) !important;
-  }
 
   /* more.md: travel list and <summary> rows */
   .country-title { color: var(--accent-color); }
