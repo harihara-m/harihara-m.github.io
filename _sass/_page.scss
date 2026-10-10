@@ -3,25 +3,17 @@
    ========================================================================== */
 
 #main {
-  @include container;
   @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
+  max-width: $site-max-width;
+  margin: 2.5em auto 0;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-
-  @include breakpoint($x-large) {
-    max-width: $x-large;
-  }
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
-  }
+  max-width: $content-max-width;
 
   .page__inner-wrap {
     @include full();

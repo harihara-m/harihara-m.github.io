@@ -1,8 +1,11 @@
 {% include base_path %}
 
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+{% comment %}
+  The author profile is shown on the home page (_layouts/home.html) instead
+  of in this sidebar, so author_profile no longer adds a sidebar here.
+{% endcomment %}
+{% if page.sidebar %}
   <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}

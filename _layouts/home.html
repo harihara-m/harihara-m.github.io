@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main">
+  <div class="home">
+    <article class="home__main page__content" itemscope itemtype="http://schema.org/CreativeWork">
+      {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title }}</h1>{% endif %}
+      {{ content }}
+    </article>
+
+    <aside class="home__profile">
+      {% include author-profile.html %}
+    </aside>
+
+    {% if page.logos %}
+    <aside class="home__logos" aria-label="Affiliations">
+      {% for logo in page.logos %}
+        <a class="home__logo" href="{{ logo.url }}" target="_blank" rel="noopener noreferrer">
+          <img src="{{ logo.image | prepend: base_path }}" alt="{{ logo.alt }}">
+        </a>
+      {% endfor %}
+    </aside>
+    {% endif %}
+  </div>
+</div>

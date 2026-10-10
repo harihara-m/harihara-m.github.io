@@ -19,14 +19,15 @@
   z-index: 20;
 
   &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 0.75em 1em;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+            align-items: center;
+    height: 100%;
+    max-width: $site-max-width;
+    margin: 0 auto;
+    padding: 0 1.25rem;
     font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
 
     nav {
       z-index: 10;
@@ -43,11 +44,32 @@
   display: flex;
   -webkit-box-align: center;
           align-items: center;
+  -webkit-box-flex: 1;
+          flex: 1 1 auto;
+  min-width: 0;
 
+  /* links sit on the right; the greedy-nav script still measures the
+     shrink-to-fit .visible-links to decide what overflows */
   .greedy-nav {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: end;
+            justify-content: flex-end;
+    -webkit-box-align: center;
+            align-items: center;
     -webkit-box-flex: 1;
             flex: 1 1 auto;
-    min-width: 0;
+    min-width: 2.75rem;
+  }
+
+  .visible-links {
+    -webkit-flex-shrink: 0;
+            flex-shrink: 0;
+  }
+
+  /* leave room for the overflow button when it is showing */
+  .greedy-nav button:not(.hidden) + .visible-links {
+    margin-right: 3rem;
   }
 
   ul {
@@ -55,6 +77,43 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+  }
+}
+
+.masthead__title {
+  -webkit-box-flex: 0;
+          flex: 0 0 auto;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+          flex-direction: column;
+  margin-right: 1.5rem;
+  color: $heading-color;
+  line-height: 1.2;
+  text-decoration: none;
+
+  &:hover {
+    color: $heading-color;
+  }
+}
+
+.masthead__name {
+  font-size: 1.05em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+.masthead__tagline {
+  display: none;
+  margin-top: 0.2rem;
+  color: $muted-text-color;
+  font-size: $type-size-6;
+  font-weight: 400;
+  white-space: nowrap;
+
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    display: block;
   }
 }
 

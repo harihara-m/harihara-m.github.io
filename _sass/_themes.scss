@@ -26,6 +26,7 @@
   --shadow-color: rgba(15, 23, 42, 0.08);
   --overlay-shadow-color: rgba(15, 23, 42, 0.14);
   --selection-color: rgba(36, 87, 197, 0.18);
+  --rule-color: #1b2229;
   --syntax-text-color: #586e75;
   --syntax-comment-color: #93a1a1;
 }
@@ -49,6 +50,7 @@
   --shadow-color: rgba(0, 0, 0, 0.35);
   --overlay-shadow-color: rgba(0, 0, 0, 0.5);
   --selection-color: rgba(126, 166, 248, 0.3);
+  --rule-color: #3a434e;
   --syntax-text-color: #9fb0b5;
   --syntax-comment-color: #6c8087;
 }
@@ -65,6 +67,20 @@
 
 :root[data-theme="dark"] {
   @include dark-theme;
+}
+
+/* Styles that apply only in dark mode, e.g.
+   .logo img { @include when-dark { filter: invert(1); } } */
+@mixin when-dark {
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) & {
+      @content;
+    }
+  }
+
+  :root[data-theme="dark"] & {
+    @content;
+  }
 }
 
 

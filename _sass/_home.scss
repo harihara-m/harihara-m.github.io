@@ -1,0 +1,206 @@
+/* ==========================================================================
+   HOME (_layouts/home.html)
+
+   Text on the left; photo, profile links and institution logos stacked in a
+   narrow column on the right. On small screens the profile comes first and
+   the logos last.
+   ========================================================================== */
+
+.home {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas:
+    "profile"
+    "main"
+    "logos";
+  row-gap: 2rem;
+
+  @include breakpoint($medium-wide) {
+    grid-template-columns: minmax(0, 1fr) 15rem;
+    grid-template-rows: auto 1fr;
+    grid-template-areas:
+      "main profile"
+      "main logos";
+    column-gap: 4rem;
+    row-gap: 2.5rem;
+  }
+}
+
+.home__main {
+  grid-area: main;
+  min-width: 0;
+}
+
+/*
+   Profile: reuses _includes/author-profile.html. Name and bio are already in
+   the masthead, so only the photo and links are shown here.
+   ========================================================================== */
+
+.home__profile {
+  grid-area: profile;
+
+  [itemscope] {
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+            align-items: center;
+
+    @include breakpoint($medium-wide) {
+      display: block;
+    }
+  }
+
+  .author__avatar {
+    display: block;
+    -webkit-box-flex: 0;
+            flex: 0 0 auto;
+    width: 6.5rem;
+
+    @include breakpoint($medium-wide) {
+      width: auto;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      max-width: none;
+      height: auto;
+      padding: 0;
+      border: 0;
+      border-radius: 50%;
+      aspect-ratio: 1;
+      object-fit: cover;
+
+      @include breakpoint($medium-wide) {
+        border-radius: 12px;
+      }
+    }
+  }
+
+  .author__content {
+    display: none;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    margin-left: 1.25rem;
+
+    @include breakpoint($medium-wide) {
+      margin: 1.25rem 0 0;
+    }
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    column-gap: 1.25rem;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    z-index: auto;
+
+    @include breakpoint($medium-wide) {
+      display: block;
+    }
+
+    &:before,
+    &:after {
+      display: none;
+    }
+
+    li {
+      font-size: $type-size-6;
+      line-height: 1.6;
+    }
+
+    a {
+      margin: 0;
+      padding: 0.15rem 0;
+      font-size: inherit;
+    }
+  }
+
+  /* location and employer only fit in the wide layout */
+  .author__desktop {
+    display: none;
+
+    @include breakpoint($medium-wide) {
+      display: list-item;
+    }
+  }
+}
+
+/*
+   Institution logos
+   ========================================================================== */
+
+.home__logos {
+  grid-area: logos;
+  /* #main's intro animation makes it a stacking context, so the blended
+     logos need a backdrop painted inside it */
+  background-color: $background-color;
+  display: -webkit-box;
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+          align-items: center;
+  gap: 1rem 2rem;
+  padding-top: 1.25rem;
+  border-top: 3px solid var(--rule-color);
+
+  @include breakpoint($medium-wide) {
+    display: block;
+    align-self: start;
+    padding-top: 0;
+    border-top: 0;
+    border-bottom: 3px solid var(--rule-color);
+  }
+}
+
+.home__logo {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
+
+  @include breakpoint($medium-wide) {
+    padding: 1.75rem 0;
+    border-top: 3px solid var(--rule-color);
+  }
+
+  img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    max-height: 3.5rem;
+
+    @include breakpoint($medium-wide) {
+      max-height: 5rem;
+    }
+
+    /* the logos are dark artwork on white or transparent backgrounds:
+       invert them and let the inverted (black) background blend away */
+    @include when-dark {
+      -webkit-filter: invert(1) hue-rotate(180deg);
+              filter: invert(1) hue-rotate(180deg);
+      mix-blend-mode: screen;
+    }
+  }
+}
+
+/* about.md lifts every "div a" on hover; keep the sidebar still */
+.home__profile a:hover,
+.home__logo:hover {
+  -webkit-transform: none;
+          transform: none;
+  box-shadow: none !important;
+}
